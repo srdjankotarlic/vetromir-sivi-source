@@ -10,6 +10,8 @@ dugih svetova i otključaj Nulto nebo, gde čeka konačni čuvar NEDAH.
 
 [**Preuzmi najnoviju verziju besplatno**](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
 
+[**Stranica igre na itch.io**](https://srdjankotarlic.itch.io/vetromir-sivi)
+
 [Pogledaj launch trejler](media/Vetromir-Avanture-Mrakovine-Launch-Trailer.mp4)
 
 ## Šta dobijaš
