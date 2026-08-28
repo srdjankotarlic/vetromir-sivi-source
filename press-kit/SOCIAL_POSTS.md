@@ -2,10 +2,10 @@
 
 ## Objava povodom izlaska - srpski
 
-VETROMIR SIVI je dostupan besplatno za Apple Silicon Mac računare.
+VETROMIR: AVANTURE MRAKOVINE je dostupan besplatno za Apple Silicon Mac računare.
 
-Osam junaka. Deset zaveta. Deset čuvara. Pohod za jednog ili dva lokalna igrača,
-sa različitim oružjem, kretanjem i ličnim potezima svakog junaka.
+Osam junaka. Deset avantura. Deset čuvara. A onda Nulto nebo i NEDAH. Pohod za
+jednog ili dva lokalna igrača, sa različitim oružjem i kretanjem svakog junaka.
 
 macOS 13+ • M1 ili noviji • bez oglasa i kupovina u igri
 
@@ -20,8 +20,8 @@ oružje, resurs, kontru, super i lični potez. Koji od osam ritmova borbe je tvo
 
 ## Čuvari - srpski
 
-Svaki od deset zaveta čuva drugačiji protivnik. Njihove arene, najave i pravila
-traže da promeniš ritam, a ne samo da pucaš brže.
+Svaku avanturu čuva drugačiji protivnik. Njihove arene, najave i pravila traže da
+promeniš ritam, a deseta pobeda tek otključava pet obličja NEDAH-a.
 
 VETROMIR SIVI je besplatan za Apple Silicon Mac.
 
@@ -29,10 +29,10 @@ VETROMIR SIVI je besplatan za Apple Silicon Mac.
 
 ## Launch post - English
 
-VETROMIR SIVI is now free on Apple Silicon Mac.
+VETROMIR: ADVENTURES OF MRAKOVINA is now free on Apple Silicon Mac.
 
-Eight heroes. Ten oaths. Ten guardians. A complete journey for one or two local
-players, with unique movement, weapons, resources, and signature moves.
+Eight heroes. Ten adventures. Ten guardians. Then the Zero Sky and NEDAH. A
+complete journey for one or two local players with distinct movement and weapons.
 
 macOS 13+ • M1 or newer • no ads or in-app purchases
 
@@ -40,6 +40,6 @@ macOS 13+ • M1 or newer • no ads or in-app purchases
 
 ## Short variants
 
-- Deset zaveta. Jedan povratak vetra. VETROMIR SIVI je besplatan na Macu.
-- Eight heroes, ten guardians, one complete journey. Free on Apple Silicon Mac.
+- Kad vetar utihne, avantura tek počinje. VETROMIR je besplatan na Macu.
+- Eight heroes, ten guardians, one final sky. Free on Apple Silicon Mac.
 - Pobeda nije kruna. Ona je deset malih vatri podeljenih ljudima.

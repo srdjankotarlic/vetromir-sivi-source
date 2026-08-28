@@ -4,21 +4,20 @@
 
 ### Jedna rečenica
 
-Povedi osam različitih junaka kroz deset zaveta, deset čuvara i svet koji ponovo
-uči da diše.
+Povedi osam različitih junaka kroz deset avantura, porazi njihove čuvare i otključaj
+Nulto nebo u svetu koji ponovo uči da diše.
 
 ### Kratak opis
 
-VETROMIR SIVI je besplatna 2D akciona platforma za 1-2 lokalna igrača, sa osam
-različitih junaka, deset poglavlja, preciznim kretanjem i velikim obračunima sa
-čuvarima.
+VETROMIR: AVANTURE MRAKOVINE je besplatna 2D akciona platforma za 1-2 lokalna
+igrača, sa osam junaka, deset velikih nivoa i završnom borbom u Nultom nebu.
 
 ### Pun opis
 
-Vetar je utihnuo, a deset zaveta koji su držali Mrakovinu na okupu pretvorilo se u
-pepeo. Vetromir Sivi i sedmoro junaka družine kreću kroz šume, nebeska ostrva,
-korenske dvorane, zaleđene uspone, gradove bez odjeka i završnu goru da ljudima
-vrate dah, hrabrost i sećanje.
+Vetar je utihnuo, a deset delova Mrakovine ostalo je pod vlašću čuvara. Vetromir
+Sivi i sedmoro junaka družine kreću kroz šume, nebeska ostrva, korenske dvorane,
+zaleđene uspone, gradove bez odjeka i olujne kapije da ljudima vrate dah, hrabrost
+i sećanje. Pobeda nad desetim čuvarom tek otvara Nulto nebo, gde čeka NEDAH.
 
 Izaberi junaka koji menja ceo ritam igre. Lebdi i kontroliši prostor kao Vetromir,
 seci kroz redove kao Vukašin, postavljaj sidrene strele kao Zorvid, razbijaj teren
@@ -27,14 +26,14 @@ Rujane, Jasenke i Noćene. Svaki junak ima sopstveno kretanje, odbranu, resurs,
 oružje, kombinacije, super i jedinstveni lični potez.
 
 Pohod ima jasan početak i kraj, trajni napredak, rang-listu, opremu, skrivene rune,
-četiri terenske moći, devet vrsta neprijatelja i deset različitih čuvara. Igraj sam
-ili priključi drugog lokalnog igrača.
+četiri terenske moći, dvanaest vrsta neprijatelja, deset različitih čuvara i konačni
+boss sa pet obličja. Igraj sam ili priključi drugog lokalnog igrača.
 
 ### Ključne osobine
 
-- deset završivih poglavlja i završni epilog
+- deset dugih poglavlja, Nulto nebo i završni epilog
 - osam junaka sa različitim oružjem i mehanikom
-- deset čuvara sa različitim arenama i obrascima
+- deset čuvara i NEDAH sa pet faza i 12.600 osnovnog zdravlja
 - precizni skokovi, zidni skok, klizanje, dugi skok, nalet, kontra i vazdušni udar
 - lokalni co-op za dva igrača
 - trajna rang-lista, oprema, veštine i težine
@@ -60,21 +59,21 @@ tražiti potvrdu u `System Settings > Privacy & Security > Open Anyway`.
 
 ### One-line pitch
 
-Lead eight distinct heroes through ten oaths, ten guardians, and a world learning
-to breathe again.
+Lead eight distinct heroes through ten adventures, defeat their guardians, and
+unlock the Zero Sky in a world learning to breathe again.
 
 ### Short description
 
-VETROMIR SIVI is a free 2D action platformer for 1-2 local players, featuring eight
-distinct heroes, ten complete chapters, expressive movement, and large guardian
-battles.
+VETROMIR: ADVENTURES OF MRAKOVINA is a free 2D action platformer for 1-2 local
+players, featuring eight heroes, ten full chapters, and a final battle in the Zero Sky.
 
 ### Full description
 
-The wind has fallen silent, and the ten oaths that once held Mrakovina together
-have turned to ash. Vetromir Sivi and seven heroes cross haunted forests, sky
-islands, rootbound halls, frozen climbs, silent cities, and the final mountain to
-return breath, courage, and memory to the people.
+The wind has fallen silent, and ten regions of Mrakovina remain under their
+guardians. Vetromir Sivi and seven heroes cross haunted forests, sky islands,
+rootbound halls, frozen climbs, silent cities, and storm gates to return breath,
+courage, and memory to the people. Defeating the tenth guardian only opens the
+Zero Sky, where NEDAH waits.
 
 Your hero changes the entire rhythm of play. Hover and control space as Vetromir,
 cut through lines as Vukašin, anchor trick shots as Zorvid, reshape encounters with
@@ -83,14 +82,14 @@ Rujana, Jasenka, and Noćena. Every hero has unique movement, defense, resource,
 weapon, combos, super, and signature move.
 
 The journey has a clear beginning and ending, persistent progress, leaderboards,
-equipment, hidden runes, four temporary field powers, nine enemy families, and ten
-distinct guardians. Play alone or bring in a second local player.
+equipment, hidden runes, four temporary field powers, twelve enemy families, ten
+distinct guardians, and a five-form final boss. Play alone or bring in a second local player.
 
 ### Key features
 
-- ten complete chapters and a final epilogue
+- ten complete chapters, the Zero Sky, and a final epilogue
 - eight mechanically distinct playable heroes
-- ten guardians with different arenas and attack patterns
+- ten guardians and NEDAH, a five-phase final boss with 12,600 base HP
 - variable jumps, wall jumps, slides, long jumps, dashes, counters, and aerial strikes
 - local two-player co-op
 - persistent scores, equipment, skills, and difficulty modes

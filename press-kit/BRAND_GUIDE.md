@@ -1,4 +1,4 @@
-# VETROMIR SIVI - vizuelni identitet
+# VETROMIR: AVANTURE MRAKOVINE - vizuelni identitet
 
 ## Suština
 
@@ -8,9 +8,9 @@ postojeće franšize.
 
 ## Logo
 
-Primarni naziv je `VETROMIR`, a `SIVI` je sekundarni potpis. Znak vetra je otvorena
+Primarni naziv je `VETROMIR`, a `AVANTURE MRAKOVINE` je sekundarni potpis. Znak vetra je otvorena
 spirala u krugu. Oko logotipa ostaviti slobodan prostor najmanje jednak visini
-slova `SIVI`. Ne menjati razmak slova, ne rotirati znak i ne koristiti više od
+sekundarnog potpisa. Ne menjati razmak slova, ne rotirati znak i ne koristiti više od
 jedne akcentne boje u istoj verziji.
 
 ## Paleta
@@ -19,7 +19,7 @@ jedne akcentne boje u istoj verziji.
 - Duboka šljiva: `#372145`
 - Mesečeva slonovača: `#F4E6C0`
 - Vetreni cijan: `#63E3FA`
-- Zavetno zlato: `#FAA230`
+- Zlato iskri: `#FAA230`
 - Žar: `#E0522F`
 
 ## Tipografija
@@ -39,4 +39,4 @@ promotivnim karticama.
 
 Kratke rečenice, konkretne osobine i srpska dijakritika. Izbegavati prazne tvrdnje
 poput „AAA kvalitet“, „najbolja igra“ ili poređenja sa zaštićenim franšizama.
-Glavni potpis: `Deset zaveta. Jedan povratak vetra.`
+Glavni potpis: `Kad vetar utihne, avantura tek počinje.`

@@ -1,4 +1,2 @@
-c2cd2b6128e10fc3a0c6a0c2a7d1a56e655e745e8ef08a6e242af81f79021b59  Vetromir-Sivi-7.4-macOS-Apple-Silicon.zip
-0409de0e6f17409c1ad79d35e0e76b68608a84899e17685a3389a3c018612591  Vetromir-Sivi-7.4-macOS-Apple-Silicon.dmg
-bb4696d00a73c8e71234b7bc035cf131893c309eff4619b422f5b9e363d7849a  Vetromir-Sivi-Press-Kit.zip
-8639a5a0b7f216555904bf1150ea30232f230b06a3c5d76e29dc145c6c3323ee  Vetromir-Sivi-Launch-Trailer.mp4
+8e57a589c621dd30f34b3795f3a8169c8a05772575f4f8235906d49606f77033  Vetromir-Sivi-7.5-macOS-Apple-Silicon.zip
+42427ea987d014769c50d56fe1902ef2eba7263b7fd72efafd33f805a682fc2a  Vetromir-Sivi-7.5-macOS-Apple-Silicon.dmg

@@ -1,22 +1,23 @@
-# VETROMIR SIVI
+# VETROMIR: AVANTURE MRAKOVINE
 
-![VETROMIR SIVI](media/key-art.jpg)
+![VETROMIR: AVANTURE MRAKOVINE](media/key-art-1920x1080.jpg)
 
-**Deset zaveta. Jedan povratak vetra.**
+**Kad vetar utihne, avantura tek počinje.**
 
 Besplatna nativna 2D akciona platforma za Apple Silicon Mac, za jednog ili dva
 lokalna igrača. Izaberi jednog od osam mehanički različitih junaka, pređi deset
-svetova i savladaj deset čuvara da bi Mrakovini vratio dah, hrabrost i sećanje.
+dugih svetova i otključaj Nulto nebo, gde čeka konačni čuvar NEDAH.
 
 [**Preuzmi najnoviju verziju besplatno**](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
 
-[Pogledaj launch trejler](media/Vetromir-Sivi-Launch-Trailer.mp4)
+[Pogledaj launch trejler](media/Vetromir-Avanture-Mrakovine-Launch-Trailer.mp4)
 
 ## Šta dobijaš
 
-- deset završivih poglavlja i završni epilog
+- deset završivih poglavlja, Nulto nebo i završni epilog
 - osam junaka sa sopstvenim kretanjem, oružjem, resursom, superom i ličnim potezom
-- deset različitih čuvara i devet porodica neprijatelja
+- deset različitih čuvara, NEDAH sa pet faza i dvanaest porodica neprijatelja
+- 1.175 ravnomerno raspoređenih neprijatelja na glavnim mapama, bez praznih deonica
 - promenljivi skok, zidni skok, klizanje, dugi skok, nalet, kontra i vazdušni udar
 - lokalni co-op za dva igrača
 - tri težine, oprema, veštine, terenske moći, skrivene rune i trajna rang-lista
@@ -50,13 +51,15 @@ prvom pokretanju može pojaviti Gatekeeper upozorenje. Detalji su u [INSTALL.md]
 ![Zvonici bez odjeka](media/screenshots/03-zvonici-bez-odjeka.png)
 ![Lični potez](media/screenshots/04-licni-potez.png)
 ![Čuvar Gromoplam](media/screenshots/05-cuvar-gromoplam.png)
-![Završetak pohoda](media/screenshots/06-zavrsetak-pohoda.png)
+![NEDAH u Nultom nebu](media/screenshots/06-nedah-nulto-nebo.png)
+![Završetak pohoda](media/screenshots/07-zavrsetak-pohoda.png)
 
 ## English
 
-VETROMIR SIVI is a free native 2D action platformer for Apple Silicon Mac, for one
-or two local players. Choose from eight mechanically distinct heroes, cross ten
-worlds, and defeat ten guardians in a complete journey with a clear ending.
+VETROMIR: ADVENTURES OF MRAKOVINA is a free native 2D action platformer for Apple
+Silicon Mac, for one or two local players. Choose from eight mechanically distinct
+heroes, cross ten worlds, and unlock the Zero Sky to face NEDAH, a five-phase final
+boss with as much health as the first ten guardians combined.
 
 The interface and story are currently in Serbian. See the English store and press
 description in [press-kit/STORE_COPY.md](press-kit/STORE_COPY.md).

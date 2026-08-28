@@ -1,9 +1,9 @@
-# VETROMIR SIVI - press kit
+# VETROMIR: ADVENTURES OF MRAKOVINA - press kit
 
 ## Facts
 
-- Title: VETROMIR SIVI
-- Version: 7.4, Voices of the Oaths
+- Title: VETROMIR: ADVENTURES OF MRAKOVINA
+- Version: 7.5, Zero Sky
 - Creator, creative director, and publisher: Srđan Kotarlić
 - Genre: 2D action platformer / run-and-gun / local co-op
 - Platform: macOS 13+, Apple Silicon only
@@ -15,18 +15,18 @@
 
 ## Story
 
-The ten oaths of Mrakovina no longer hold the world together. Vetromir Sivi and his
+Ten regions of Mrakovina remain under their guardians. Vetromir Sivi and his
 fellowship set out to return breath, courage, and memory to its people. Every
-chapter presents a different oath, world, and guardian. The tenth victory leads to
-a three-part epilogue: victory is not a crown, but ten small fires shared with the
-people.
+chapter presents a different world and guardian. The tenth victory opens the Zero
+Sky and NEDAH, a five-form final boss whose health equals all previous guardians
+combined. Only that victory leads to the three-part epilogue.
 
 ## What makes it distinct
 
 The eight heroes are not stat swaps. Each changes jumping, dashing, defense,
 weapon, personal resource, counter, super, and signature move. The campaign blends
 expressive platforming, evenly paced tactical encounters, temporary powers,
-equipment, hidden runes, and ten large guardian fights.
+equipment, hidden runes, ten large guardian fights, and a dedicated final arena.
 
 Visuals are drawn in code from vector forms, procedural materials, lighting, and
 particles. Synthesized combat sound is layered with four licensed organic music
@@ -34,10 +34,10 @@ sources. Profiles and leaderboards remain entirely local.
 
 ## Release content
 
-- 10 complete chapters
+- 10 complete chapters and the Zero Sky
 - 8 playable heroes
-- 10 guardians
-- 9 enemy families
+- 10 guardians and the five-form final boss NEDAH
+- 12 enemy families
 - 4 temporary field powers
 - 3 difficulty modes
 - local co-op and persistent leaderboards
@@ -45,7 +45,7 @@ sources. Profiles and leaderboards remain entirely local.
 
 ## Media
 
-The package includes key art, a vector logo, a poster, a launch trailer, and six
+The package includes key art, a vector logo, a poster, a launch trailer, and seven
 real gameplay screenshots. Gameplay images may be cropped but should not be edited
 to imply features that are not present.
 

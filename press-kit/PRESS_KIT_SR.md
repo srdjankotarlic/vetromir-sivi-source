@@ -1,9 +1,9 @@
-# VETROMIR SIVI - press kit
+# VETROMIR: AVANTURE MRAKOVINE - press kit
 
 ## Osnovni podaci
 
-- Naslov: VETROMIR SIVI
-- Verzija: 7.4, Glasovi zaveta
+- Naslov: VETROMIR: AVANTURE MRAKOVINE
+- Verzija: 7.5, Nulto nebo
 - Autor, kreativno vođstvo i izdavač: Srđan Kotarlić
 - Žanr: 2D akciona platforma / run-and-gun / lokalni co-op
 - Platforma: macOS 13+, isključivo Apple Silicon
@@ -15,17 +15,18 @@
 
 ## Priča
 
-Deset zaveta Mrakovine više ne drži svet na okupu. Vetromir Sivi i družina polaze
-da vrate ljudima dah, hrabrost i sećanje. Svako poglavlje predstavlja drugi zavet,
-drugi svet i drugačijeg čuvara. Posle desetog obračuna pohod se završava trodelnim
-epilogom: pobeda nije kruna, već deset malih vatri podeljenih ljudima.
+Deset delova Mrakovine ostalo je pod vlašću čuvara. Vetromir Sivi i družina polaze
+da vrate ljudima dah, hrabrost i sećanje. Svako poglavlje donosi drugi svet i
+drugačijeg čuvara. Posle desetog obračuna otvara se Nulto nebo i NEDAH, petofazni
+završni boss čije zdravlje odgovara zbiru svih prethodnih čuvara. Tek njegova pobeda
+vodi u trodelni epilog.
 
 ## Šta igru izdvaja
 
 Osam junaka nisu samo različite statistike. Svaki menja skok, nalet, odbranu,
 oružje, resurs, kontru, super i lični potez. Kampanja kombinuje precizno
 platformisanje, ravnomerno raspoređene taktičke sukobe, privremene moći, opremu,
-skrivene rune i deset velikih čuvara.
+skrivene rune, deset velikih čuvara i zasebnu konačnu arenu.
 
 Grafika nastaje u kodu iz vektorskih oblika, proceduralnih materijala, svetla i
 čestica. Borbeni zvuk se sintetiše i kombinuje sa četiri licencirana organska
@@ -33,10 +34,10 @@ muzička izvora. Profil i rang-lista čuvaju se samo lokalno.
 
 ## Sadržaj izdanja
 
-- 10 završivih poglavlja
+- 10 završivih poglavlja i Nulto nebo
 - 8 junaka
-- 10 čuvara
-- 9 porodica neprijatelja
+- 10 čuvara i petofazni završni boss NEDAH
+- 12 porodica neprijatelja
 - 4 privremene terenske moći
 - 3 nivoa težine
 - lokalni co-op i trajna rang-lista
@@ -44,7 +45,7 @@ muzička izvora. Profil i rang-lista čuvaju se samo lokalno.
 
 ## Mediji
 
-Naslovna ilustracija, logo, poster, trejler i šest stvarnih Full HD gameplay kadrova
+Naslovna ilustracija, logo, poster, trejler i sedam stvarnih Full HD gameplay kadrova
 nalaze se u ovom promotivnom paketu. Gameplay snimci smeju da se kropuju, ali ne i
 da se menjaju tako da prikazuju nepostojeću funkciju.
 
