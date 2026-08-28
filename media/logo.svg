@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="720" viewBox="0 0 2400 720">
+  <defs>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="18"/>
+      <feOffset dy="22"/>
+      <feColorMatrix values="0 0 0 0 0.02 0 0 0 0 0.015 0 0 0 0 0.05 0 0 0 0.9 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke="#63e3fa" stroke-linecap="round" filter="url(#glow)">
+    <circle cx="1200" cy="145" r="65" stroke-width="8"/>
+    <path d="M1166 146 C1176 104 1241 104 1245 139 C1249 171 1212 188 1190 168 C1174 153 1181 137 1197 132" stroke-width="12"/>
+  </g>
+  <text x="1200" y="430" text-anchor="middle" fill="#f4e6c0" font-family="Avenir Next, Avenir, sans-serif" font-size="222" font-weight="900" letter-spacing="10" filter="url(#shadow)">VETROMIR</text>
+  <text x="1200" y="545" text-anchor="middle" fill="#63e3fa" font-family="Avenir Next, Avenir, sans-serif" font-size="72" font-weight="800" letter-spacing="34" filter="url(#shadow)">SIVI</text>
+  <text x="1200" y="645" text-anchor="middle" fill="#faa230" font-family="Avenir Next, Avenir, sans-serif" font-size="38" font-weight="600" letter-spacing="6">DESET ZAVETA  •  JEDAN POVRATAK VETRA</text>
+</svg>

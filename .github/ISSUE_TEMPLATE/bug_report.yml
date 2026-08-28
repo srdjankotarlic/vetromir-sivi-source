@@ -1,0 +1,37 @@
+name: Prijava greške
+description: Prijavi ponovljiv problem u VETROMIRU SIVOM
+title: "[Greška] "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Verzija igre
+      placeholder: "7.4 (19)"
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Mac i macOS
+      placeholder: "MacBook Air M2, macOS 15.6"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Šta se dogodilo?
+      description: Opiši stvarni i očekivani rezultat.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Koraci za ponavljanje
+      placeholder: "1. Izaberi...\n2. Uđi...\n3. Pritisni..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Junak, poglavlje i težina

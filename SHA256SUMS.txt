@@ -1,0 +1,2 @@
+3f7085b714eec514d41eb302020b91132f10598fef28ceeceb1771b07632bb84  Vetromir-Sivi-7.4-macOS-Apple-Silicon.zip
+649bff8508dabdecc1b2171af209f1e0b0877b54dc01cff91b53f833056547f0  Vetromir-Sivi-7.4-macOS-Apple-Silicon.dmg
