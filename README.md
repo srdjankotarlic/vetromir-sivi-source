@@ -1,173 +1,180 @@
 <p align="center">
-  <a href="https://srdjankotarlic.github.io/vetromir-sivi/">
-    <img src="media/github-social-1280x640.png" alt="VETROMIR: AVANTURE MRAKOVINE" width="100%">
+  <a href="https://srdjankotarlic.github.io/vetromir-sivi/en/">
+    <img src="media/github-social-1280x640.png" alt="VETROMIR: SHADOWLANDS ADVENTURES" width="100%">
   </a>
 </p>
 
-<h1 align="center">VETROMIR: AVANTURE MRAKOVINE</h1>
+<h1 align="center">VETROMIR: SHADOWLANDS ADVENTURES</h1>
 
 <p align="center">
-  <strong>Kad vetar utihne, avantura tek počinje.</strong><br>
-  Besplatna nativna 2D akciona platforma za Apple Silicon Mac, za 1–2 lokalna igrača.
+  <strong>When the wind falls silent, the adventure begins.</strong><br>
+  A free native 2D action-platformer for Apple Silicon Macs, for 1-2 local players.
 </p>
 
 <p align="center">
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest"><img src="https://img.shields.io/github/v/release/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=62e8ff&label=IZDANJE" alt="Najnovije izdanje"></a>
-  <img src="https://img.shields.io/badge/macOS-13%2B-f7e8c5?style=for-the-badge&logo=apple&logoColor=111020" alt="macOS 13 ili noviji">
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest"><img src="https://img.shields.io/github/v/release/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=62e8ff&label=RELEASE" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/macOS-13%2B-f7e8c5?style=for-the-badge&logo=apple&logoColor=111020" alt="macOS 13 or newer">
   <img src="https://img.shields.io/badge/Apple%20Silicon-M1%2B-f0a52b?style=for-the-badge" alt="Apple Silicon">
-  <img src="https://img.shields.io/badge/CENA-BESPLATNO-7ad7a2?style=for-the-badge" alt="Besplatno">
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/stargazers"><img src="https://img.shields.io/github/stars/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=ef7769&label=STAR" alt="GitHub zvezdice"></a>
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases"><img src="https://img.shields.io/github/downloads/srdjankotarlic/vetromir-sivi/total?style=for-the-badge&color=8d6ccf&label=PREUZIMANJA" alt="GitHub preuzimanja"></a>
+  <img src="https://img.shields.io/badge/PRICE-FREE-7ad7a2?style=for-the-badge" alt="Free">
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi/stargazers"><img src="https://img.shields.io/github/stars/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=ef7769&label=STARS" alt="GitHub stars"></a>
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases"><img src="https://img.shields.io/github/downloads/srdjankotarlic/vetromir-sivi/total?style=for-the-badge&color=8d6ccf&label=DOWNLOADS" alt="GitHub downloads"></a>
 </p>
 
 <p align="center">
-  <a href="https://srdjankotarlic.github.io/vetromir-sivi/"><strong>SLUŽBENA STRANICA I PREUZIMANJE</strong></a>
+  <a href="https://srdjankotarlic.github.io/vetromir-sivi/en/"><strong>ENGLISH WEBSITE</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest"><strong>GITHUB RELEASE</strong></a>
+  <a href="https://srdjankotarlic.github.io/vetromir-sivi/"><strong>SRPSKA STRANICA</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4"><strong>GAMEPLAY TREJLER</strong></a>
+  <a href="https://srdjankotarlic.itch.io/vetromir-sivi"><strong>ITCH.IO</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4"><strong>GAMEPLAY TRAILER</strong></a>
 </p>
 
 ---
 
-Vetar je utihnuo, a deset delova Mrakovine ostalo je pod vlašću čuvara. Vetromir
-Sivi i sedmoro junaka družine kreću kroz šume, nebeska ostrva, zaleđene uspone,
-korenske dvorane, gradove bez odjeka i olujne kapije. Pobeda nad desetim čuvarom
-tek otvara **Nulto nebo**, gde čeka konačni protivnik: **NEDAH**.
+Mrakovina has lost its wind. Ten guardians hold ten sparks across forests, sky
+islands, frozen climbs, root halls, silent cities and storm gates. Choose one of
+eight mechanically distinct heroes, complete every adventure, open the Zero Sky
+and face **NEDAH**, a five-phase final guardian carrying the combined strength of
+all ten previous bosses.
 
-## Pogledaj Igru
+## Download
 
-<p align="center">
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4">
-    <img src="media/screenshots/06-nedah-nulto-nebo.png" alt="Pogledaj official gameplay trailer" width="88%">
-  </a>
-</p>
+Version 7.6 includes two complete editions. Gameplay, balance, levels, audio and
+visuals are identical; only the language and local save folder differ.
 
-<p align="center"><strong>Klikni kadar za 40-sekundni Full HD gameplay trejler.</strong></p>
+| Edition | Recommended | Alternative |
+|---|---|---|
+| **English** | [Download DMG](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.dmg) | [Download ZIP](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.zip) |
+| **Srpski** | [Preuzmi DMG](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg) | [Preuzmi ZIP](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.zip) |
 
-## U Brojkama
+Both apps can be installed on the same Mac. They use separate save data, so an
+English playthrough never overwrites a Serbian one.
 
-| 8 junaka | 10 avantura + finale | 11 čuvara | 1–2 igrača |
+## At A Glance
+
+| 8 heroes | 10 adventures + finale | 11 guardians | 1-2 players |
 |:--:|:--:|:--:|:--:|
-| Različito kretanje i oružje | Mape duge 34k–42k tačaka | NEDAH ima 5 faza | Solo ili lokalni co-op |
+| Distinct movement and weapons | 34k-42k point maps | Five-phase NEDAH fight | Solo or local co-op |
 
-| 12 vrsta neprijatelja | 1.175 neprijatelja | 3 težine | 0 oglasa i kupovina |
+| 12 enemy archetypes | 1,175 enemies | 3 difficulties | 0 ads or purchases |
 |:--:|:--:|:--:|:--:|
-| Taktike i timski napadi | Ravnomerno raspoređeni | Podesive kontrole | Sav napredak ostaje lokalno |
+| Tactical and coordinated attacks | Distributed across the campaign | Remappable controls | All progress stays local |
 
-## Zašto Je Drugačija
+## What Makes It Different
 
-- **Junak menja pravila igre.** Svaki od osam junaka ima sopstvenu brzinu,
-  skok, odbranu, resurs, glavno oružje, kombinacije, super i lični potez.
-- **Pokret ima težinu.** Promenljivi skok, coyote vreme, buffer skoka, zidno
-  klizanje, zidni skok, nalet, dugi skok, kontra i vazdušni udar rade kao povezan
-  sistem, a ne kao odvojeni trikovi.
-- **Pohod ima početak i kraj.** Deset dugih poglavlja vodi do Nultog neba, pet
-  faza konačnog čuvara i završnog epiloga.
-- **Borbe nisu samo pucanje.** Neprijatelji blokiraju, vrebaju, štite saborce,
-  vezuju junaka, napadaju u čoporima i koriste teren.
-- **Igra raste sa tobom.** Oprema, veštine, skrivene rune, privremene terenske
-  moći, tri težine i trajna rang-lista menjaju sledeći pokušaj.
-- **Nativna je.** Swift + SpriteKit, bez SPM zavisnosti, naloga, telemetrije,
-  oglasa ili kupovina u igri.
+- **Your hero changes the rules.** Every hero has unique movement tuning,
+  primary weapon physics, melee geometry, defence, resource, counter, signature
+  move, super and skill tree.
+- **Movement is a complete system.** Variable jump height, coyote time, jump
+  buffering, wall slides, wall jumps, dashes, long jumps, counters and aerial
+  strikes work together.
+- **The journey has a real ending.** Ten full chapters unlock the Zero Sky, a
+  five-phase final battle and a complete epilogue.
+- **Combat is more than shooting.** Enemies block, ambush, protect allies, bind
+  heroes, coordinate attacks and use the terrain.
+- **Every run can evolve.** Equipment, permanent skills, hidden runes and four
+  temporary field powers change weapons, movement and defence.
+- **It is native.** Swift and SpriteKit, with no accounts, telemetry, ads,
+  subscriptions or in-game purchases.
 
-## Osam Junaka
-
-Vetromir kontroliše prostor vetrom i lebdenjem. Vukašin gradi ritam bliskom
-borbom. Zorvid postavlja precizne sidrene hice. Gvozdan trpi udarce i menja tok
-borbe kovačkim oružjem. Ognjen, Rujana, Jasenka i Noćena imaju zasebne resurse,
-odbrane, kretanje i arsenale. Nijedan izbor nije samo drugačiji kostim.
-
-## Galerija
+## English Gameplay
 
 <table>
   <tr>
-    <td><img src="media/screenshots/01-gaj-pepeljastog-vetra.png" alt="Gaj pepeljastog vetra"></td>
-    <td><img src="media/screenshots/02-osam-junaka.png" alt="Osam junaka"></td>
+    <td><img src="media/screenshots/en/01-main-menu.png" alt="English main menu"></td>
+    <td><img src="media/screenshots/en/02-eight-heroes.png" alt="Eight playable heroes"></td>
   </tr>
   <tr>
-    <td><img src="media/screenshots/03-zvonici-bez-odjeka.png" alt="Zvonici bez odjeka"></td>
-    <td><img src="media/screenshots/04-licni-potez.png" alt="Lični potez"></td>
+    <td><img src="media/screenshots/en/03-ashwind-grove.png" alt="Ashwind Grove gameplay"></td>
+    <td><img src="media/screenshots/en/04-bell-city.png" alt="Bell City gameplay"></td>
   </tr>
   <tr>
-    <td><img src="media/screenshots/05-cuvar-gromoplam.png" alt="Čuvar Gromoplam"></td>
-    <td><img src="media/screenshots/07-zavrsetak-pohoda.png" alt="Završetak pohoda"></td>
+    <td><img src="media/screenshots/en/05-signature-move.png" alt="Hero signature move"></td>
+    <td><img src="media/screenshots/en/06-nedah-zero-sky.png" alt="NEDAH in the Zero Sky"></td>
   </tr>
 </table>
 
-## Brzi Početak
+## Eight Heroes
 
-1. Otvori [najnoviji GitHub Release](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest).
-2. Preuzmi `Vetromir-Sivi-7.5-macOS-Apple-Silicon.dmg`.
-3. Otvori DMG i prevuci `Vetromir.app` u `Applications`.
-4. Prvi put pokreni aplikaciju desnim klikom pa izaberi `Open`.
-5. Ako je macOS blokira, idi na `System Settings > Privacy & Security > Open Anyway`.
+- **Vetromir Grey** controls space with wind rings, aerial drift, glide and vortexes.
+- **Vukasin** builds close-range rhythm with chained returning blades and counters.
+- **Zorvid** breaks trajectories with anchor arrows, precision and a triple jump.
+- **Gvozdan** uses an arcing forge cannon, magnetic hammer, heat and armour plates.
+- **Ognjen** advances behind a frontal guard with a sun spear and party support.
+- **Rujana** fights with twin war fans, rose wire, marks and phase doubles.
+- **Jasenka** plants sentinel seeds, roots enemies and grows healing bark.
+- **Nocena** wields a chained sickle, star lantern, eclipse and life harvest.
 
-Izdanje je validno ad-hoc potpisano, ali nije Apple notarizovano. Detaljno
-uputstvo i ZIP alternativa nalaze se u [INSTALL.md](INSTALL.md).
+Their power budgets are balanced, so the choice changes how you play without
+creating one mandatory best hero.
 
-## Podrazumevane Kontrole
+## Installation
 
-Sve kontrole mogu da se promene u meniju.
+1. Download the English or Serbian DMG from the table above.
+2. Open the DMG and drag the application into `Applications`.
+3. On first launch, right-click the app and choose `Open`.
+4. If macOS blocks it, use `System Settings > Privacy & Security > Open Anyway`.
 
-| Radnja | Tastatura i miš | Kontroler |
+The public build is ad-hoc signed but not Apple-notarized. Read
+[INSTALL-EN.md](INSTALL-EN.md) or [INSTALL.md](INSTALL.md) for full instructions.
+
+## Default Controls
+
+All controls can be changed from the main menu.
+
+| Action | Keyboard / mouse | Controller |
 |---|---|---|
-| Kretanje | `A / D` | leva palica / krst |
-| Skok / pariranje | `SPACE` | `A` |
-| Nalet | `SHIFT` | `B` |
-| Napadi | `J / K / L / U` ili miš | `X / Y / R1 / L1` |
-| Lični potez | `O` | `R3` |
-| Super | `I` ili srednji klik | `R2` |
-| Kontra | `C` | `L2` |
-| Radnja / pauza | `E / P` | odgovarajuće dugme / `MENU` |
+| Move | `A / D` | left stick / D-pad |
+| Jump / parry | `SPACE` | `A` |
+| Dash | `SHIFT` | `B` |
+| Skill attacks | `J / K / L / U` or mouse | `X / Y / R1 / L1` |
+| Signature move | `O` | `R3` |
+| Super | `I` or middle mouse | `R2` |
+| Counter | `C` | `L2` |
+| Interact / pause | `E / P` | assigned button / `MENU` |
 
-## Sistemski Zahtevi
+## Requirements
 
-- macOS 13 Ventura ili noviji
-- Apple Silicon M1, M2, M3, M4 ili noviji
-- tastatura i miš ili kompatibilan kontroler
-- približno 50 MB slobodnog prostora
+- macOS 13 Ventura or newer
+- Apple Silicon M1, M2, M3, M4 or newer
+- keyboard and mouse, or a compatible controller
+- approximately 100 MB of free space
 
-Intel Mac, Windows, Linux, iPhone i Android nisu podržani.
+Intel Macs, Windows, Linux, iPhone, iPad and Android are not supported.
 
-## Preuzimanja I Mediji
+## Media And Documentation
 
-- [Službena GitHub Pages stranica](https://srdjankotarlic.github.io/vetromir-sivi/)
-- [Besplatna itch.io stranica](https://srdjankotarlic.itch.io/vetromir-sivi)
-- [Najnoviji DMG, ZIP i checksumovi](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
-- [Official Gameplay Trailer](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4)
-- [Instagram Reel sa gameplayom](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Instagram-Reel-Gameplay-1080x1920.mp4)
-- [Kompletan promo paket v7.5](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Promo-Pack-v7.5.zip)
-- [Press kit](media/Vetromir-Avanture-Mrakovine-Press-Kit-v7.5.zip)
-
-## Dokumentacija
-
-- [Instalacija](INSTALL.md)
-- [Beleške izdanja](RELEASE_NOTES.md)
-- [Srpski press kit](press-kit/PRESS_KIT_SR.md)
+- [English website](https://srdjankotarlic.github.io/vetromir-sivi/en/)
+- [Serbian website](https://srdjankotarlic.github.io/vetromir-sivi/)
+- [Free itch.io page](https://srdjankotarlic.itch.io/vetromir-sivi)
+- [Latest release and checksums](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
+- [Official gameplay trailer](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4)
 - [English press kit](press-kit/PRESS_KIT_EN.md)
-- [Licence korišćenih asseta](ASSET_LICENSES.md)
-- [Autori i zasluge](CREDITS.md)
-- [Privatnost](PRIVACY.md)
-- [Bezbednost](SECURITY.md)
+- [Serbian press kit](press-kit/PRESS_KIT_SR.md)
+- [Asset licences](ASSET_LICENSES.md)
+- [Credits](CREDITS.md)
+- [Privacy](PRIVACY.md)
+- [Security](SECURITY.md)
 
-## English
+## Privacy And Licence
 
-**VETROMIR: ADVENTURES OF MRAKOVINA** is a free native 2D action platformer for
-Apple Silicon Mac, for one or two local players. Choose from eight mechanically
-distinct heroes, cross ten full chapters, unlock the Zero Sky, and face NEDAH,
-a five-phase final boss with as much health as the first ten guardians combined.
+The game collects no data. Profiles, equipment, scores and leaderboards remain
+on the local Mac. Bugs and feedback can be submitted through
+[GitHub Issues](https://github.com/srdjankotarlic/vetromir-sivi/issues).
 
-The interface and story are currently in Serbian. English store copy and full
-details are available in [press-kit/STORE_COPY.md](press-kit/STORE_COPY.md).
+Copyright © 2026 Srđan Kotarlić. All rights reserved. The game is free to
+download and play. This repository is the public distribution hub; the source
+code is not publicly distributed. Resale, repackaging or reuse of the game's
+characters, story, music and visual identity is not permitted. See
+[LICENSE.md](LICENSE.md), [CREDITS.md](CREDITS.md) and
+[ASSET_LICENSES.md](ASSET_LICENSES.md).
 
-## Privatnost I Licenca
+---
 
-Igra ne prikuplja podatke; profil, oprema i rezultati ostaju na lokalnom Macu.
-Za greške i predloge koristi [GitHub Issues](https://github.com/srdjankotarlic/vetromir-sivi/issues).
+## Srpski
 
-Copyright © 2026 Srđan Kotarlić. Sva prava zadržana. Igra je besplatna za
-preuzimanje i lično igranje. Ovaj repozitorijum je javni distributivni centar;
-izvorni kod nije javno objavljen. Nije dozvoljena prodaja, prepakivanje ili
-korišćenje likova, priče i vizuelnog identiteta u drugom proizvodu. Pogledaj
-[LICENSE.md](LICENSE.md), [CREDITS.md](CREDITS.md) i [ASSET_LICENSES.md](ASSET_LICENSES.md).
+Kompletno srpsko izdanje ostaje dostupno i ima istu kampanju, mehaniku, balans,
+muziku i grafiku kao englesko izdanje. Otvori
+[srpsku stranicu](https://srdjankotarlic.github.io/vetromir-sivi/) ili preuzmi
+[srpski DMG](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg).

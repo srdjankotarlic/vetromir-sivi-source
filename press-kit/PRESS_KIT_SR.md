@@ -3,12 +3,12 @@
 ## Osnovni podaci
 
 - Naslov: VETROMIR: AVANTURE MRAKOVINE
-- Verzija: 7.5, Nulto nebo
+- Verzija: 7.6, srpsko i englesko izdanje
 - Autor, kreativno vođstvo i izdavač: Srđan Kotarlić
 - Žanr: 2D akciona platforma / run-and-gun / lokalni co-op
 - Platforma: macOS 13+, isključivo Apple Silicon
 - Broj igrača: 1-2 lokalno
-- Jezik: srpski
+- Jezici: potpuno srpsko i potpuno englesko izdanje
 - Cena: besplatno
 - Tehnologija: Swift, SpriteKit, AVFoundation i GameController
 - Privatnost: bez naloga, oglasa, analitike, telemetrije i mrežnog servisa

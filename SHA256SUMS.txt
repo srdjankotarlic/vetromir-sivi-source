@@ -1,2 +1,4 @@
-8e57a589c621dd30f34b3795f3a8169c8a05772575f4f8235906d49606f77033  Vetromir-Sivi-7.5-macOS-Apple-Silicon.zip
-42427ea987d014769c50d56fe1902ef2eba7263b7fd72efafd33f805a682fc2a  Vetromir-Sivi-7.5-macOS-Apple-Silicon.dmg
+53a728300a88b72d3bc9678beaa73312177c085a5ea686b87de28ba68e69e780  Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.zip
+4fd5c4d6003c05c1c7378dd77d04ff9dc601fb2a54354d427fddb37cd8700d7c  Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg
+c49b131bf5bcf6d65048a157d41bf30f31647a56301f13db0f25eb048965265d  Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.zip
+f567cc65bc3028921114496ca484e011058bcf55b80e770beea408bbd64bf67b  Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.dmg

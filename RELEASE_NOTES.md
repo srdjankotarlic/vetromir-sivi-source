@@ -1,36 +1,52 @@
-# VETROMIR: AVANTURE MRAKOVINE 7.5 - Nulto nebo
+# VETROMIR 7.6 - English And Serbian Editions
 
-Besplatno izdanje za Apple Silicon Mac sa novim konačnim poglavljem i potpuno
-osveženim promotivnim identitetom.
+Version 7.6 introduces a complete English edition of **VETROMIR: SHADOWLANDS
+ADVENTURES** while preserving the original Serbian edition, **VETROMIR:
+AVANTURE MRAKOVINE**.
 
-## Sadržaj
+## English Edition
 
-- kompletan pohod kroz deset dugih poglavlja, Nulto nebo i završni epilog
-- NEDAH, konačni čuvar sa 12.600 zdravlja, pet faza, promenljivim kombinacijama i
-  prizivanjem neprijatelja
-- 1.175 ravnomerno raspoređenih neprijatelja na glavnim mapama i 12 različitih vrsta
-- osam mehanički različitih junaka i osam ličnih poteza
-- solo i lokalni co-op za dva igrača
-- trajna rang-lista, oprema, veštine, rune i četiri terenske moći
-- tri težine i potpuno promenljive kontrole
-- četiri uređena muzička konteksta i sintetizovani borbeni zvuk
-- Full HD prikaz, centralizovani meniji i podrška za kontroler
-- novi naslov `VETROMIR: AVANTURE MRAKOVINE`, trejler, sedam gameplay slika i
-  dvojezični press kit
+- all menus, HUD labels, tutorials, controls and settings translated
+- all ten chapters, objectives, checkpoint messages and story scenes translated
+- all eight heroes, weapons, traits, skills, signature moves and supers translated
+- enemy, boss, shop, equipment, rune, leaderboard and ending text translated
+- native macOS application and window menus translated
+- separate English profile folder, allowing both editions on one Mac
+- full 51-scene visual localization audit with no missing translations
 
-## Promotivni materijal
+## Complete Game
 
-Uz izdanje su dodati official gameplay trejler, namenski 29-sekundni Instagram Reel
-sa stvarnim gameplayom i GitHub završnicom, 15-sekundni Instagram Story video, Story
-slika 1080×1920, LinkedIn video, LinkedIn slika 1200×627 i kompletan ZIP promo paket
-sa gotovim tekstovima za objave i kontrolnim sumama.
+- ten long chapters, the Zero Sky finale and a complete epilogue
+- eight mechanically distinct heroes with unique movement, weapons and resources
+- eleven progressive guardians, ending with NEDAH's five-phase battle
+- 1,175 enemies across twelve tactical archetypes
+- solo and local two-player co-op
+- remappable keyboard, mouse and controller input
+- persistent scores, leaderboards, equipment, skills, runes and field powers
+- three difficulty settings and Full HD presentation
+- no accounts, telemetry, ads or in-game purchases
 
-Igra sada ima i zasebnu responzivnu GitHub Pages prezentaciju sa trailerom, velikom
-galerijom, opisom junaka, pohoda, NEDAHA, instalacijom i direktnim GitHub preuzimanjem:
-https://srdjankotarlic.github.io/vetromir-sivi/
+## Downloads
 
-## Važno
+Choose one language edition. DMG is recommended; ZIP is provided as an alternative.
 
-Aplikacija zahteva macOS 13+ i Apple Silicon. Nije Apple notarizovana, pa pri prvom
-pokretanju može biti potrebno `desni klik > Open` ili `Open Anyway` u bezbednosnim
-podešavanjima sistema.
+- `Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.dmg`
+- `Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.zip`
+- `Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg`
+- `Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.zip`
+- `SHA256SUMS-v7.6.txt`
+
+The application requires macOS 13 or newer on Apple Silicon. It is ad-hoc signed
+but not Apple-notarized, so first launch may require `right-click > Open` or
+`System Settings > Privacy & Security > Open Anyway`.
+
+---
+
+## Srpski
+
+Izdanje 7.6 donosi potpuno englesko izdanje uz postojeće srpsko izdanje. Obe
+aplikacije imaju istu kampanju, mehaniku, balans, muziku i grafiku, ali koriste
+odvojene profile i mogu istovremeno da budu instalirane na istom Macu.
+
+Engleska verzija je proverena kroz svih 51 ekran igre bez preostalog srpskog
+teksta. Srpsko izdanje i sav postojeći napredak ostaju nepromenjeni.

@@ -64,21 +64,21 @@ unlock the Zero Sky in a world learning to breathe again.
 
 ### Short description
 
-VETROMIR: ADVENTURES OF MRAKOVINA is a free 2D action platformer for 1-2 local
+VETROMIR: SHADOWLANDS ADVENTURES is a free 2D action platformer for 1-2 local
 players, featuring eight heroes, ten full chapters, and a final battle in the Zero Sky.
 
 ### Full description
 
 The wind has fallen silent, and ten regions of Mrakovina remain under their
-guardians. Vetromir Sivi and seven heroes cross haunted forests, sky islands,
+guardians. Vetromir Grey and seven heroes cross haunted forests, sky islands,
 rootbound halls, frozen climbs, silent cities, and storm gates to return breath,
 courage, and memory to the people. Defeating the tenth guardian only opens the
 Zero Sky, where NEDAH waits.
 
 Your hero changes the entire rhythm of play. Hover and control space as Vetromir,
-cut through lines as Vukašin, anchor trick shots as Zorvid, reshape encounters with
+cut through lines as Vukasin, anchor trick shots as Zorvid, reshape encounters with
 Gvozdan's forge weapons, or master the radically different arsenals of Ognjen,
-Rujana, Jasenka, and Noćena. Every hero has unique movement, defense, resource,
+Rujana, Jasenka, and Nocena. Every hero has unique movement, defense, resource,
 weapon, combos, super, and signature move.
 
 The journey has a clear beginning and ending, persistent progress, leaderboards,
@@ -105,6 +105,8 @@ distinct guardians, and a five-form final boss. Play alone or bring in a second 
 - approximately 50 MB of available storage
 - Intel Mac, Windows, Linux, iPhone, and Android are not supported
 
-### Language
+### Languages
 
-The game interface and story are currently in Serbian.
+Version 7.6 provides separate complete English and Serbian applications. Both
+editions contain identical gameplay, levels, balance, visuals and audio, and can
+be installed on the same Mac with independent save data.

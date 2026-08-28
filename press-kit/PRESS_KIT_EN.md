@@ -1,21 +1,21 @@
-# VETROMIR: ADVENTURES OF MRAKOVINA - press kit
+# VETROMIR: SHADOWLANDS ADVENTURES - press kit
 
 ## Facts
 
-- Title: VETROMIR: ADVENTURES OF MRAKOVINA
-- Version: 7.5, Zero Sky
+- Title: VETROMIR: SHADOWLANDS ADVENTURES
+- Version: 7.6, complete English edition
 - Creator, creative director, and publisher: Srđan Kotarlić
 - Genre: 2D action platformer / run-and-gun / local co-op
 - Platform: macOS 13+, Apple Silicon only
 - Players: 1-2 local
-- Language: Serbian
+- Languages: complete English and Serbian editions
 - Price: free
 - Technology: Swift, SpriteKit, AVFoundation, and GameController
 - Privacy: no accounts, ads, analytics, telemetry, or online service
 
 ## Story
 
-Ten regions of Mrakovina remain under their guardians. Vetromir Sivi and his
+Ten regions of Mrakovina remain under their guardians. Vetromir Grey and his
 fellowship set out to return breath, courage, and memory to its people. Every
 chapter presents a different world and guardian. The tenth victory opens the Zero
 Sky and NEDAH, a five-form final boss whose health equals all previous guardians
@@ -45,9 +45,9 @@ sources. Profiles and leaderboards remain entirely local.
 
 ## Media
 
-The package includes key art, a vector logo, a poster, a launch trailer, and seven
-real gameplay screenshots. Gameplay images may be cropped but should not be edited
-to imply features that are not present.
+The package includes key art, a vector logo, a poster, a launch trailer, Serbian
+screenshots and seven real English gameplay screenshots. Gameplay images may be
+cropped but should not be edited to imply features that are not present.
 
 ## Copyright
 
