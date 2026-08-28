@@ -18,6 +18,12 @@ osveženim promotivnim identitetom.
 - novi naslov `VETROMIR: AVANTURE MRAKOVINE`, trejler, sedam gameplay slika i
   dvojezični press kit
 
+## Promotivni materijal
+
+Uz izdanje su dodati official gameplay trejler, 15-sekundni Instagram Story video,
+Story slika 1080×1920, LinkedIn video, LinkedIn slika 1200×627 i kompletan ZIP promo
+paket sa gotovim tekstovima za objave i kontrolnim sumama.
+
 ## Važno
 
 Aplikacija zahteva macOS 13+ i Apple Silicon. Nije Apple notarizovana, pa pri prvom
