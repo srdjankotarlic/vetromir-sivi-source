@@ -1,5 +1,24 @@
 # Objave za promociju
 
+## Instagram Reel - srpski
+
+Mrakovina je progutala vetar. Družina kreće po njega.
+
+VETROMIR: AVANTURE MRAKOVINE je besplatna akciona platforma za Apple Silicon Mac.
+
+8 potpuno različitih junaka. 10 velikih avantura. Lokalni co-op. Konačni obračun
+u Nultom nebu.
+
+Preuzmi besplatno preko GitHuba. Link je u opisu profila.
+
+Ako ti se igra dopadne, ostavi Star na GitHubu i napiši koji si pohod uspeo da
+završiš.
+
+https://srdjankotarlic.github.io/vetromir-sivi/
+
+#Vetromir #AvantureMrakovine #IndieGame #MacGaming #Platformer #GameDev
+#MadeInSerbia #Swift #SpriteKit
+
 ## Objava povodom izlaska - srpski
 
 VETROMIR: AVANTURE MRAKOVINE je dostupan besplatno za Apple Silicon Mac računare.

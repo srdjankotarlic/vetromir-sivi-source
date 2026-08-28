@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="media/github-social-1280x640.png" alt="VETROMIR: AVANTURE MRAKOVINE" width="100%">
+  <a href="https://srdjankotarlic.github.io/vetromir-sivi/">
+    <img src="media/github-social-1280x640.png" alt="VETROMIR: AVANTURE MRAKOVINE" width="100%">
+  </a>
 </p>
 
 <h1 align="center">VETROMIR: AVANTURE MRAKOVINE</h1>
@@ -14,10 +16,12 @@
   <img src="https://img.shields.io/badge/macOS-13%2B-f7e8c5?style=for-the-badge&logo=apple&logoColor=111020" alt="macOS 13 ili noviji">
   <img src="https://img.shields.io/badge/Apple%20Silicon-M1%2B-f0a52b?style=for-the-badge" alt="Apple Silicon">
   <img src="https://img.shields.io/badge/CENA-BESPLATNO-7ad7a2?style=for-the-badge" alt="Besplatno">
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi/stargazers"><img src="https://img.shields.io/github/stars/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=ef7769&label=STAR" alt="GitHub zvezdice"></a>
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases"><img src="https://img.shields.io/github/downloads/srdjankotarlic/vetromir-sivi/total?style=for-the-badge&color=8d6ccf&label=PREUZIMANJA" alt="GitHub preuzimanja"></a>
 </p>
 
 <p align="center">
-  <a href="https://srdjankotarlic.itch.io/vetromir-sivi"><strong>PREUZMI BESPLATNO NA ITCH.IO</strong></a>
+  <a href="https://srdjankotarlic.github.io/vetromir-sivi/"><strong>SLUŽBENA STRANICA I PREUZIMANJE</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest"><strong>GITHUB RELEASE</strong></a>
   &nbsp;·&nbsp;
@@ -128,9 +132,11 @@ Intel Mac, Windows, Linux, iPhone i Android nisu podržani.
 
 ## Preuzimanja I Mediji
 
+- [Službena GitHub Pages stranica](https://srdjankotarlic.github.io/vetromir-sivi/)
 - [Besplatna itch.io stranica](https://srdjankotarlic.itch.io/vetromir-sivi)
 - [Najnoviji DMG, ZIP i checksumovi](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
 - [Official Gameplay Trailer](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4)
+- [Instagram Reel sa gameplayom](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Instagram-Reel-Gameplay-1080x1920.mp4)
 - [Kompletan promo paket v7.5](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Promo-Pack-v7.5.zip)
 - [Press kit](media/Vetromir-Avanture-Mrakovine-Press-Kit-v7.5.zip)
 

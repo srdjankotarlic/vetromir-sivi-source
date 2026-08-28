@@ -20,9 +20,14 @@ osveženim promotivnim identitetom.
 
 ## Promotivni materijal
 
-Uz izdanje su dodati official gameplay trejler, 15-sekundni Instagram Story video,
-Story slika 1080×1920, LinkedIn video, LinkedIn slika 1200×627 i kompletan ZIP promo
-paket sa gotovim tekstovima za objave i kontrolnim sumama.
+Uz izdanje su dodati official gameplay trejler, namenski 29-sekundni Instagram Reel
+sa stvarnim gameplayom i GitHub završnicom, 15-sekundni Instagram Story video, Story
+slika 1080×1920, LinkedIn video, LinkedIn slika 1200×627 i kompletan ZIP promo paket
+sa gotovim tekstovima za objave i kontrolnim sumama.
+
+Igra sada ima i zasebnu responzivnu GitHub Pages prezentaciju sa trailerom, velikom
+galerijom, opisom junaka, pohoda, NEDAHA, instalacijom i direktnim GitHub preuzimanjem:
+https://srdjankotarlic.github.io/vetromir-sivi/
 
 ## Važno
 
