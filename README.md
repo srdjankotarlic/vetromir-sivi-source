@@ -8,13 +8,14 @@
 
 <p align="center">
   <strong>When the wind falls silent, the adventure begins.</strong><br>
-  A free native 2D action-platformer for Apple Silicon Macs, for 1-2 local players.
+  A free native 2D action-platformer for Apple Silicon Macs and iPhone, for 1-2 local players.
 </p>
 
 <p align="center">
   <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest"><img src="https://img.shields.io/github/v/release/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=62e8ff&label=RELEASE" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-f7e8c5?style=for-the-badge&logo=apple&logoColor=111020" alt="macOS 13 or newer">
   <img src="https://img.shields.io/badge/Apple%20Silicon-M1%2B-f0a52b?style=for-the-badge" alt="Apple Silicon">
+  <img src="https://img.shields.io/badge/iPhone-iOS%2015%2B-62e8ff?style=for-the-badge&logo=apple&logoColor=111020" alt="iPhone with iOS 15 or newer">
   <img src="https://img.shields.io/badge/PRICE-FREE-7ad7a2?style=for-the-badge" alt="Free">
   <a href="https://github.com/srdjankotarlic/vetromir-sivi/stargazers"><img src="https://img.shields.io/github/stars/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=ef7769&label=STARS" alt="GitHub stars"></a>
   <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases"><img src="https://img.shields.io/github/downloads/srdjankotarlic/vetromir-sivi/total?style=for-the-badge&color=8d6ccf&label=DOWNLOADS" alt="GitHub downloads"></a>
@@ -50,6 +51,19 @@ visuals are identical; only the language and local save folder differ.
 
 Both apps can be installed on the same Mac. They use separate save data, so an
 English playthrough never overwrites a Serbian one.
+
+### iPhone 7.7
+
+The iPhone edition contains both Serbian and English in one app and supports iOS 15
+or later. Choose the easiest route available to you:
+
+- **AltStore Classic:** [add the official VETROMIR source](altstore://source?url=https%3A%2F%2Fsrdjankotarlic.github.io%2Fvetromir-sivi%2Faltstore-source.json), then tap Install.
+- **Direct IPA:** [download the unsigned IPA](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/iphone-7.7/Vetromir-iPhone-7.7-build23-unsigned.ipa) and sign it with AltStore Classic or another local signer.
+- **Official Xcode route:** [download the complete source package](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/iphone-7.7/Vetromir-iPhone-7.7-Xcode-Source.zip), choose your Personal Team and press Run.
+
+Apple does not permit an unsigned GitHub IPA to install directly from Safari. A free
+Apple Account supports personal on-device installation, but the signature needs
+periodic refresh. Read the bilingual [iPhone installation guide](INSTALL-IPHONE.md).
 
 ## At A Glance
 
@@ -136,12 +150,20 @@ All controls can be changed from the main menu.
 
 ## Requirements
 
+### macOS
+
 - macOS 13 Ventura or newer
 - Apple Silicon M1, M2, M3, M4 or newer
 - keyboard and mouse, or a compatible controller
 - approximately 100 MB of free space
 
-Intel Macs, Windows, Linux, iPhone, iPad and Android are not supported.
+### iPhone
+
+- iOS 15 or newer
+- iPhone 11 or newer recommended
+- AltStore Classic or a Mac with Xcode for local signing
+
+Intel Macs, Windows, Linux, iPad and Android are not supported game targets.
 
 ## Media And Documentation
 
@@ -149,6 +171,8 @@ Intel Macs, Windows, Linux, iPhone, iPad and Android are not supported.
 - [Serbian website](https://srdjankotarlic.github.io/vetromir-sivi/)
 - [Free itch.io page](https://srdjankotarlic.itch.io/vetromir-sivi)
 - [Latest release and checksums](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
+- [iPhone installation guide](INSTALL-IPHONE.md)
+- [Official AltStore source](https://srdjankotarlic.github.io/vetromir-sivi/altstore-source.json)
 - [Official gameplay trailer](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4)
 - [English press kit](press-kit/PRESS_KIT_EN.md)
 - [Serbian press kit](press-kit/PRESS_KIT_SR.md)
@@ -160,12 +184,13 @@ Intel Macs, Windows, Linux, iPhone, iPad and Android are not supported.
 ## Privacy And Licence
 
 The game collects no data. Profiles, equipment, scores and leaderboards remain
-on the local Mac. Bugs and feedback can be submitted through
+on the local Mac or iPhone. Bugs and feedback can be submitted through
 [GitHub Issues](https://github.com/srdjankotarlic/vetromir-sivi/issues).
 
 Copyright © 2026 Srđan Kotarlić. All rights reserved. The game is free to
-download and play. This repository is the public distribution hub; the source
-code is not publicly distributed. Resale, repackaging or reuse of the game's
+download and play. This repository is the public distribution hub. The iPhone
+source package is supplied only for personal building and installation under
+the project licence. Resale, repackaging or reuse of the game's
 characters, story, music and visual identity is not permitted. See
 [LICENSE.md](LICENSE.md), [CREDITS.md](CREDITS.md) and
 [ASSET_LICENSES.md](ASSET_LICENSES.md).

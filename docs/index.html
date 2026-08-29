@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Vetromir: Avanture Mrakovine | Besplatna macOS igra</title>
-  <meta name="description" content="Preuzmi Vetromir: Avanture Mrakovine, besplatnu nativnu akcionu platformu za Apple Silicon Mac. Osam junaka, deset avantura, lokalni co-op i konačni obračun u Nultom nebu.">
+  <title>Vetromir: Avanture Mrakovine | macOS i iPhone igra</title>
+  <meta name="description" content="Preuzmi Vetromir: Avanture Mrakovine, besplatnu nativnu akcionu platformu za Apple Silicon Mac i iPhone. Osam junaka, deset avantura i Nulto nebo.">
   <meta name="author" content="Srđan Kotarlić">
   <meta name="robots" content="index,follow,max-image-preview:large,max-video-preview:-1">
   <meta name="theme-color" content="#0b0815">
@@ -40,13 +40,13 @@
     "image": "https://srdjankotarlic.github.io/vetromir-sivi/assets/github-social-1280x640.png",
     "screenshot": "https://srdjankotarlic.github.io/vetromir-sivi/assets/01-gaj-pepeljastog-vetra.png",
     "description": "Besplatna nativna 2D akciona platforma sa osam junaka, deset poglavlja, lokalnim co-opom i konačnim obračunom u Nultom nebu.",
-    "gamePlatform": "macOS",
-    "operatingSystem": "macOS 13 or newer on Apple Silicon",
+    "gamePlatform": ["macOS", "iOS"],
+    "operatingSystem": "macOS 13 or newer on Apple Silicon, or iOS 15 or newer on iPhone",
     "applicationCategory": "GameApplication",
     "genre": ["Action platformer", "Run and gun", "Local co-op"],
     "playMode": ["SinglePlayer", "CoOp"],
     "inLanguage": "sr",
-    "softwareVersion": "7.6",
+    "softwareVersion": "7.7",
     "downloadUrl": "https://github.com/srdjankotarlic/vetromir-sivi/releases/latest",
     "author": {"@type": "Person", "name": "Srđan Kotarlić", "url": "https://github.com/srdjankotarlic"},
     "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}
@@ -291,15 +291,16 @@
   <main id="main">
     <section class="hero" style="border-top:0">
       <div class="wrap hero-copy">
-        <span class="version">VERZIJA 7.6 · SRPSKO IZDANJE</span>
+        <span class="version">macOS 7.6 · iPhone 7.7</span>
         <h1><span>VETROMIR</span>AVANTURE MRAKOVINE</h1>
         <p class="sub">Mrakovina je progutala vetar. Izaberi jednog od osam junaka, pređi deset velikih avantura i otvori put ka NEDAHU, čuvaru Nultog neba.</p>
         <div class="cta">
           <a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg">Preuzmi srpski DMG <small>Apple Silicon</small></a>
+          <a class="btn gold" href="altstore://source?url=https%3A%2F%2Fsrdjankotarlic.github.io%2Fvetromir-sivi%2Faltstore-source.json">Instaliraj na iPhone</a>
           <a class="btn" href="#trailer">Pogledaj gameplay</a>
           <a class="btn" href="https://github.com/srdjankotarlic/vetromir-sivi">Ostavi Star na GitHubu</a>
         </div>
-        <ul class="trust"><li>Potpuno besplatno</li><li>Bez naloga i oglasa</li><li>1–2 igrača lokalno</li><li>Napredak ostaje na Macu</li></ul>
+        <ul class="trust"><li>Potpuno besplatno</li><li>Bez naloga i oglasa</li><li>1–2 igrača lokalno</li><li>Napredak ostaje na uređaju</li></ul>
 
         <div class="trailer" id="trailer">
           <video controls muted loop playsinline preload="metadata" poster="assets/key-art-1920x1080.jpg" aria-label="Vetromir gameplay trailer">
@@ -395,10 +396,12 @@
 
     <section id="preuzmi">
       <div class="wrap">
-        <div class="center"><span class="eyebrow">POČNI POHOD</span><h2>Preuzmi Vetromir besplatno</h2><p class="lead">Za Apple Silicon Mac računare sa macOS 13 Ventura ili novijim. Bez naloga, pretplate i kupovina u igri.</p></div>
+        <div class="center"><span class="eyebrow">POČNI POHOD</span><h2>Preuzmi Vetromir besplatno</h2><p class="lead">Za Apple Silicon Mac ili iPhone sa iOS 15 ili novijim. Bez naloga, pretplate i kupovina u igri.</p></div>
         <div class="download-grid">
           <article class="download-card recommended"><span class="eyebrow">SRPSKO IZDANJE · PREPORUČENO</span><h3>macOS DMG</h3><p>Najjednostavnija instalacija. Otvori DMG i prevuci Vetromir u Applications.</p><span class="filename">Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg</span><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg">Preuzmi srpski DMG</a></article>
           <article class="download-card"><span class="eyebrow">ALTERNATIVA</span><h3>macOS ZIP</h3><p>Direktan paket aplikacije za ručno raspakivanje i premeštanje.</p><span class="filename">Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.zip</span><a class="btn" href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.zip">Preuzmi srpski ZIP</a></article>
+          <article class="download-card recommended"><span class="eyebrow">IPHONE 7.7 · NAJLAKŠE</span><h3>AltStore Classic</h3><p>Dodaj zvanični Vetromir izvor i instaliraj IPA potpisan svojim Apple nalogom.</p><span class="filename">Vetromir-iPhone-7.7-build23-unsigned.ipa</span><a class="btn primary" href="altstore://source?url=https%3A%2F%2Fsrdjankotarlic.github.io%2Fvetromir-sivi%2Faltstore-source.json">Dodaj u AltStore</a></article>
+          <article class="download-card"><span class="eyebrow">IPHONE · ZVANIČNI APPLE PUT</span><h3>Xcode paket</h3><p>Kompletan provereni projekat. Izaberi Personal Team, poveži iPhone i pritisni Run.</p><span class="filename">Vetromir-iPhone-7.7-Xcode-Source.zip</span><a class="btn" href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/iphone-7.7/Vetromir-iPhone-7.7-Xcode-Source.zip">Preuzmi Xcode paket</a></article>
         </div>
         <div class="steps">
           <div class="step"><b>1</b><strong>Preuzmi DMG</strong><span>Koristi veliko dugme iznad.</span></div>
@@ -407,6 +410,7 @@
           <div class="step"><b>4</b><strong>Izaberi junaka</strong><span>Podesi kontrole i započni pohod.</span></div>
         </div>
         <div class="notice"><strong>Važno:</strong> izdanje je ad-hoc potpisano, ali nije Apple notarizovano. Ako ga macOS blokira, otvori <strong>System Settings → Privacy &amp; Security → Open Anyway</strong>. Za potpuno englesku igru otvori <a href="en/"><strong>English edition</strong></a>.</div>
+        <div class="notice"><strong>iPhone:</strong> Apple ne dozvoljava direktnu instalaciju nepotpisanog IPA fajla iz Safarija. Koristi AltStore Classic ili Xcode i pročitaj <a href="https://github.com/srdjankotarlic/vetromir-sivi/blob/main/INSTALL-IPHONE.md"><strong>kratko uputstvo</strong></a>.</div>
       </div>
     </section>
 
@@ -415,7 +419,8 @@
         <span class="eyebrow">ČESTA PITANJA</span><h2>Pre nego što kreneš</h2>
         <div class="faq" style="text-align:left">
           <details open><summary>Da li je Vetromir potpuno besplatan?</summary><p>Da. Nema pretplate, oglasa, kupovina u igri ni vremenskog ograničenja.</p></details>
-          <details><summary>Koji Mac računari su podržani?</summary><p>Apple Silicon modeli sa M1, M2, M3, M4 ili novijim čipom i macOS 13 Ventura ili novijim. Intel Mac, Windows, Linux, iPhone i Android trenutno nisu podržani.</p></details>
+          <details><summary>Koji uređaji su podržani?</summary><p>Apple Silicon Mac sa macOS 13 ili novijim i iPhone sa iOS 15 ili novijim. iPhone 11 ili noviji je preporučen. iPad nije podržan.</p></details>
+          <details><summary>Zašto iPhone traži AltStore ili Xcode?</summary><p>Apple odbija nepotpisane GitHub aplikacije. AltStore ili Xcode lokalno potpisuju besplatan IPA tvojim Apple nalogom; igra ne dobija tvoju lozinku niti šalje podatke.</p></details>
           <details><summary>Da li mogu da igram sa još jednom osobom?</summary><p>Da. Vetromir podržava jednog ili dva lokalna igrača. Kontrole tastature, miša i kompatibilnog kontrolera mogu da se promene u meniju.</p></details>
           <details><summary>Zašto macOS prikazuje bezbednosno upozorenje?</summary><p>Aplikacija je ad-hoc potpisana, ali nije Apple notarizovana. Desni klik na aplikaciju pa Open, ili Privacy &amp; Security → Open Anyway, omogućava prvo pokretanje.</p></details>
           <details><summary>Da li igra prikuplja podatke?</summary><p>Ne. Nema naloga, analitike, telemetrije ni mrežnog servisa. Profil, oprema i rezultati ostaju lokalno na računaru.</p></details>
@@ -425,7 +430,7 @@
     </section>
 
     <section class="final-cta">
-      <div class="wrap"><span class="eyebrow">VETAR ČEKA</span><h2>Izaberi junaka. Vrati dah Mrakovini.</h2><p>Deset avantura i Nulto nebo dostupni su odmah. Pohod je besplatan i napredak ostaje samo na tvom Macu.</p><div class="cta"><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest">Preuzmi najnoviju verziju</a><a class="btn gold" href="https://github.com/srdjankotarlic/vetromir-sivi">Podrži projekat Starom</a></div></div>
+      <div class="wrap"><span class="eyebrow">VETAR ČEKA</span><h2>Izaberi junaka. Vrati dah Mrakovini.</h2><p>Deset avantura i Nulto nebo dostupni su odmah. Pohod je besplatan i napredak ostaje na tvom uređaju.</p><div class="cta"><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest">Preuzmi najnoviju verziju</a><a class="btn gold" href="https://github.com/srdjankotarlic/vetromir-sivi">Podrži projekat Starom</a></div></div>
     </section>
   </main>
 

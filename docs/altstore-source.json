@@ -1,0 +1,62 @@
+{
+  "name": "VETROMIR",
+  "subtitle": "Native iPhone adventures in Mrakovina",
+  "description": "The official GitHub source for VETROMIR: SHADOWLANDS ADVENTURES. Serbian and English are included in one iPhone app.",
+  "iconURL": "https://srdjankotarlic.github.io/vetromir-sivi/assets/app-icon-1024.png",
+  "headerURL": "https://srdjankotarlic.github.io/vetromir-sivi/assets/github-social-1280x640.png",
+  "website": "https://srdjankotarlic.github.io/vetromir-sivi/en/",
+  "apps": [
+    {
+      "name": "VETROMIR: SHADOWLANDS ADVENTURES",
+      "bundleIdentifier": "rs.srdjan.vetromir.mobile",
+      "developerName": "Srđan Kotarlić",
+      "subtitle": "Eight heroes, ten adventures and the Zero Sky",
+      "localizedDescription": "A native action-platformer for iPhone. Master eight mechanically distinct heroes, cross ten adventures and defeat NEDAH in the Zero Sky. Includes complete Serbian and English interfaces, touch controls, local scores and optional controller co-op.",
+      "iconURL": "https://srdjankotarlic.github.io/vetromir-sivi/assets/app-icon-1024.png",
+      "tintColor": "#62E8FF",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://srdjankotarlic.github.io/vetromir-sivi/assets/en/03-ashwind-grove.png",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "imageURL": "https://srdjankotarlic.github.io/vetromir-sivi/assets/en/05-signature-move.png",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "imageURL": "https://srdjankotarlic.github.io/vetromir-sivi/assets/en/06-nedah-zero-sky.png",
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "versions": [
+        {
+          "version": "7.7",
+          "buildVersion": "23",
+          "date": "2026-08-29",
+          "localizedDescription": "First verified iPhone-only release. Bilingual Serbian and English game, compact touch controls, stable joystick rendering and the complete campaign.",
+          "downloadURL": "https://github.com/srdjankotarlic/vetromir-sivi/releases/download/iphone-7.7/Vetromir-iPhone-7.7-build23-unsigned.ipa",
+          "size": 15207872,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "VETROMIR arrives on iPhone",
+      "identifier": "vetromir-iphone-7.7",
+      "caption": "The complete bilingual adventure is ready for iPhone.",
+      "date": "2026-08-29",
+      "appID": "rs.srdjan.vetromir.mobile",
+      "url": "https://github.com/srdjankotarlic/vetromir-sivi/releases/tag/iphone-7.7"
+    }
+  ]
+}
