@@ -7,7 +7,7 @@ body:
     id: version
     attributes:
       label: Verzija igre
-      placeholder: "7.4 (19)"
+      placeholder: "7.21 (39)"
     validations:
       required: true
   - type: input

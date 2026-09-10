@@ -1,5 +1,7 @@
 # VETROMIR: AVANTURE MRAKOVINE - vizuelni identitet
 
+> Arhivski vodič. Za aktuelne 7.21 kadrove i opis koristi [novi press kit](UPDATE-7.21.md).
+
 ## Suština
 
 Tamna slovenska fantastika u kojoj hladni vetar vraća nadu svetu pepela. Ton je

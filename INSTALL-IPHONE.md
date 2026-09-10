@@ -1,5 +1,7 @@
 # Instalacija VETROMIRA na iPhone
 
+> Arhiva / Archive: iPhone 7.7. Verzija / Version 7.21 is Mac-only and does not update this package.
+
 VETROMIR 7.7 je nativna iPhone igra za iOS 15 ili noviji. GitHub izdanje je
 besplatno, ali Apple ne dozvoljava direktnu instalaciju nepotpisanog `.ipa` fajla
 dodirom u Safariju. Korisnik zato jednom mora da potpiše aplikaciju svojim Apple

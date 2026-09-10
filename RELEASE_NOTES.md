@@ -1,4 +1,10 @@
-# VETROMIR 7.6 - English And Serbian Editions
+# VETROMIR 7.21 - Curious Arsenal
+
+See [the current release notes](RELEASE-v7.21.md) for eight new weapon systems,
+eight secondary combinations, collectable attacks and the current Mac installer.
+Both languages are now included in one application with shared local progress.
+
+## Archive: 7.6 - English And Serbian Editions
 
 Version 7.6 introduces a complete English edition of **VETROMIR: SHADOWLANDS
 ADVENTURES** while preserving the original Serbian edition, **VETROMIR:

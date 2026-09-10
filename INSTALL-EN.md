@@ -1,57 +1,44 @@
-# Installing Vetromir On Mac
+# Installing Vetromir on Mac
 
 ## Requirements
 
 - Apple Silicon Mac: M1, M2, M3, M4 or newer
 - macOS 13 Ventura or newer
-- approximately 100 MB of free space
+- approximately 200 MB of free space
 
 Intel Macs, Windows, Linux, iPhone, iPad and Android are not supported by this build.
 
-## Recommended Installation
+## Recommended installation
 
-1. Download `Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.dmg`.
+1. Download the file ending in `macOS-Apple-Silicon-Serbian-English.dmg`.
 2. Open the DMG.
-3. Drag `Vetromir English.app` into the `Applications` shortcut.
-4. Launch the game from Applications.
+3. Drag `Vetromir.app` into the `Applications` shortcut.
+4. Launch it from Applications.
 
-Do not download GitHub's automatic source archive if you only want to play. Use
-the DMG or ZIP attached to the release.
+## First launch without notarization
 
-## First Launch Without Notarization
-
-The public build is ad-hoc signed but not Apple-notarized. If macOS blocks it:
+The free public build is ad-hoc signed but not Apple-notarized. If macOS blocks it:
 
 1. Open `System Settings`.
 2. Choose `Privacy & Security`.
 3. Scroll to the Vetromir message.
 4. Click `Open Anyway`, then confirm `Open`.
 
-You only need to do this once for that downloaded build. Do not disable
-Gatekeeper or remove system-wide security protections.
+You only need to do this once for that downloaded build.
 
-## Verify The Download
+## Save data
 
-Run this command in Terminal and compare the result with `SHA256SUMS-v7.6.txt`
-attached to the same release:
-
-```bash
-shasum -a 256 Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.dmg
-```
-
-## Save Data And Two Editions
-
-The English edition stores its profile at:
-
-```text
-~/Library/Application Support/Vetromir-English/profile.json
-```
-
-The Serbian edition stores its profile at:
+Both languages use the same profile at:
 
 ```text
 ~/Library/Application Support/Vetromir/profile.json
 ```
 
-Both applications can be installed and played on the same Mac without
-overwriting each other's progress.
+The language can be changed from the main menu. A legacy English profile is imported
+automatically only when the shared profile does not already exist.
+
+## GitHub download choice
+
+Use the DMG or application ZIP attached to release 7.21. The automatic GitHub
+"Source code" archive contains this distribution repository's documentation,
+not an installable game. You do not need Xcode or developer tools to play.

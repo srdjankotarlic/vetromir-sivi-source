@@ -1,5 +1,7 @@
 # VETROMIR for iPhone
 
+> Historical 7.7 documentation. The current 7.21 release is Mac-only; this package has not been updated.
+
 Version 7.7 uses the same SpriteKit gameplay, campaign, balance, audio and procedural
 art as the macOS game. The mobile build keeps all ten chapters, the Zero Sky finale,
 eight heroes, leaderboards, equipment, story and local co-op.

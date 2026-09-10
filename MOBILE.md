@@ -1,5 +1,7 @@
 # VETROMIR za iPhone
 
+> Arhiva izdanja 7.7. Aktuelna verzija 7.21 je samo za Mac; ovaj paket nije ažuriran.
+
 Verzija 7.7 koristi isti SpriteKit gameplay, kampanju, balans, zvuk i proceduralnu
 grafiku kao macOS igra. Mobilno izdanje nije uprošćena web kopija: svih deset
 poglavlja, Nulto nebo, osam junaka, rang-lista, oprema, priča i lokalni co-op ostaju.

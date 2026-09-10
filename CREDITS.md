@@ -2,6 +2,15 @@
 
 Kreativno vođstvo i izdavač: Srđan Kotarlić
 
+Desktop 7.13: 27 modularnih slikanih protivnika i četiri lista prednjeg plana,
+generisana ugrađenim OpenAI ImageGen alatom prema originalnim projektnim briefovima.
+Sklapanje delova, animacije, slojevi i povezivanje sa postojećim AI-jem su Swift kod.
+Originalni PNG-ovi nisu naknadno precrtavani i nisu predstavljeni kao ljudski ručni rad.
+
+Desktop 7.12: osam modularnih slikanih junaka, generisanih OpenAI ImageGen alatom
+prema originalnim briefovima za Vetromir. Izvorne slike nisu ručno naslikane.
+Animacija, povezivanje delova i prikaz u igri izvedeni su u Swift/SpriteKit kodu.
+
 VETROMIR SIVI je originalna igra razvijena u Swiftu i SpriteKitu uz razvojni proces
 podržan AI alatima. Likovi, svet, priča, nazivi, proceduralni vizuelni sistem,
 mehanike, audio režija i sintetizovani borbeni sloj pripadaju ovom projektu.
@@ -9,6 +18,10 @@ mehanike, audio režija i sintetizovani borbeni sloj pripadaju ovom projektu.
 Naslovna promotivna ilustracija i izdavački materijali izvedeni su iz stvarnih
 kadrova igre u AI-podržanom procesu pod kreativnim vođstvom Srđana Kotarlića.
 Promotivni materijal nije deo izvršnog paketa igre i ne menja njen prikaz.
+
+Desktop 7.9 uključuje četiri zasebna slikana pejzaža, generisana OpenAI ImageGen
+alatom za ovu igru. To su projektni AI-generisani asseti, ne tuđe slike iz igara niti
+ilustracije predstavljene kao ljudski ručni rad. Evidencija je u `ASSET_LICENSES.md`.
 
 Organski muzički izvori, korišćeni pod Pixabay Content License:
 
@@ -28,6 +41,6 @@ Korišćeni sistemski Apple frameworkovi:
 - GameController
 - Core Image
 
-Tipografija koristi sistemske fontove Avenir Next i Baskerville. Ikonica, grafika,
-čestice i teksture generišu se iz projektnog koda. Borbeni SFX je sintetizovan, uz
+Tipografija koristi sistemske fontove Avenir Next i Baskerville. Ikonica, čestice,
+vektorski rezervni modeli i deo materijala generišu se iz projektnog koda. Borbeni SFX je sintetizovan, uz
 pet kratkih organskih akcenata izvedenih iz navedenih licenciranih izvora.

@@ -1,5 +1,7 @@
 # Tekst prodavnice
 
+> Arhivski tekst ranijeg izdanja. Za aktuelni besplatni Mac 7.21 koristi [novi press kit](UPDATE-7.21.md).
+
 ## Srpski
 
 ### Jedna rečenica

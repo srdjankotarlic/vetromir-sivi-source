@@ -1,5 +1,7 @@
 # VETROMIR: AVANTURE MRAKOVINE - press kit
 
+> Arhiva ranijeg izdanja. [Aktuelni press kit, slike i tekstovi za 7.21](UPDATE-7.21.md).
+
 ## Osnovni podaci
 
 - Naslov: VETROMIR: AVANTURE MRAKOVINE

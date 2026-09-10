@@ -1,5 +1,7 @@
 # VETROMIR: SHADOWLANDS ADVENTURES - press kit
 
+> Historical release material. [Current 7.21 press kit, screenshots and copy](UPDATE-7.21.md).
+
 ## Facts
 
 - Title: VETROMIR: SHADOWLANDS ADVENTURES

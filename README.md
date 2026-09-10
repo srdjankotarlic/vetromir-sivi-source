@@ -1,205 +1,98 @@
-<p align="center">
-  <a href="https://srdjankotarlic.github.io/vetromir-sivi/en/">
-    <img src="media/github-social-1280x640.png" alt="VETROMIR: SHADOWLANDS ADVENTURES" width="100%">
-  </a>
-</p>
-
 <h1 align="center">VETROMIR: SHADOWLANDS ADVENTURES</h1>
+<p align="center"><strong>Curious Arsenal · 7.21 · Free for Mac</strong><br>Eight heroes. Eight ways to fight. One windless world to bring back to life.</p>
 
 <p align="center">
-  <strong>When the wind falls silent, the adventure begins.</strong><br>
-  A free native 2D action-platformer for Apple Silicon Macs and iPhone, for 1-2 local players.
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21"><strong>DOWNLOAD FOR MAC</strong></a> ·
+  <a href="https://srdjankotarlic.github.io/vetromir-sivi/en/">Website</a> ·
+  <a href="INSTALL.md">Srpsko uputstvo</a> ·
+  <a href="https://github.com/srdjankotarlic/vetromir-sivi-source/issues">Report a bug</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/latest"><img src="https://img.shields.io/github/v/release/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=62e8ff&label=RELEASE" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/macOS-13%2B-f7e8c5?style=for-the-badge&logo=apple&logoColor=111020" alt="macOS 13 or newer">
-  <img src="https://img.shields.io/badge/Apple%20Silicon-M1%2B-f0a52b?style=for-the-badge" alt="Apple Silicon">
-  <img src="https://img.shields.io/badge/iPhone-iOS%2015%2B-62e8ff?style=for-the-badge&logo=apple&logoColor=111020" alt="iPhone with iOS 15 or newer">
-  <img src="https://img.shields.io/badge/PRICE-FREE-7ad7a2?style=for-the-badge" alt="Free">
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/stargazers"><img src="https://img.shields.io/github/stars/srdjankotarlic/vetromir-sivi?style=for-the-badge&color=ef7769&label=STARS" alt="GitHub stars"></a>
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases"><img src="https://img.shields.io/github/downloads/srdjankotarlic/vetromir-sivi/total?style=for-the-badge&color=8d6ccf&label=DOWNLOADS" alt="GitHub downloads"></a>
-</p>
+![The eight heroes in the current 7.21 build](media/screenshots/v7.21-heroes.png)
 
-<p align="center">
-  <a href="https://srdjankotarlic.github.io/vetromir-sivi/en/"><strong>ENGLISH WEBSITE</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://srdjankotarlic.github.io/vetromir-sivi/"><strong>SRPSKA STRANICA</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://srdjankotarlic.itch.io/vetromir-sivi"><strong>ITCH.IO</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4"><strong>GAMEPLAY TRAILER</strong></a>
-</p>
+## Play Free
 
----
+**Apple Silicon Mac (M1 or newer), macOS 13 or newer.** One app includes English
+and Serbian, selectable in the main menu. No account, ads or in-game purchases.
 
-Mrakovina has lost its wind. Ten guardians hold ten sparks across forests, sky
-islands, frozen climbs, root halls, silent cities and storm gates. Choose one of
-eight mechanically distinct heroes, complete every adventure, open the Zero Sky
-and face **NEDAH**, a five-phase final guardian carrying the combined strength of
-all ten previous bosses.
+| Installer | Download |
+| --- | --- |
+| **DMG: recommended** | [Download Vetromir 7.21](https://github.com/srdjankotarlic/vetromir-sivi-source/releases/download/v7.21/Vetromir-7.21-macOS-Apple-Silicon-Serbian-English.dmg) |
+| ZIP alternative | [Download the app archive](https://github.com/srdjankotarlic/vetromir-sivi-source/releases/download/v7.21/Vetromir-7.21-macOS-Apple-Silicon-Serbian-English.zip) |
+| File integrity | [SHA-256 checksums](https://github.com/srdjankotarlic/vetromir-sivi-source/releases/download/v7.21/SHA256SUMS-v7.21.txt) |
 
-## Download
+Open the DMG and drag **Vetromir.app** to **Applications**. This build is ad-hoc
+signed, **not Apple-notarized**. If macOS blocks the first launch, use
+**System Settings > Privacy & Security > Open Anyway** after attempting to open it.
+See [installation help](INSTALL-EN.md). Do not disable system-wide security.
 
-Version 7.6 includes two complete editions. Gameplay, balance, levels, audio and
-visuals are identical; only the language and local save folder differ.
+This release is for Mac, not Intel Mac, Windows, Android, iPhone or iPad.
+Older iPhone releases remain historical and do not contain the 7.21 changes.
 
-| Edition | Recommended | Alternative |
-|---|---|---|
-| **English** | [Download DMG](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.dmg) | [Download ZIP](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Shadowlands-Adventures-7.6-macOS-Apple-Silicon-English.zip) |
-| **Srpski** | [Preuzmi DMG](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg) | [Preuzmi ZIP](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.zip) |
+## A Different Arsenal For Every Hero
 
-Both apps can be installed on the same Mac. They use separate save data, so an
-English playthrough never overwrites a Serbian one.
+| Hero | Primary weapon | Secondary combination |
+| --- | --- | --- |
+| **Vetromir** | Wind Astrolabe: orbiting rings | Pocket Storm gathers enemies into a vortex |
+| **Vukasin** | Returning Shears: paired curved blades | Closing Cut winds up, then snaps across the target |
+| **Zorvid** | Sky Compass: arrows plant floating anchors | Constellation Break connects the anchors with a light cut |
+| **Gvozdan** | Marble Furnace: lobbed mines | Red Button detonates the placed mines |
+| **Ognjen** | Dawn Parasol: a short light thrust that reflects a shot | Noon Mirror catches up to four projectiles |
+| **Rujana** | Crimson Spool: stitches joined by cutting thread | Silk Loom holds a pulsing wire trap |
+| **Jasenka** | Seed Chime: three targeting sentinels | Full Bloom turns the garden into petal volleys |
+| **Nocena** | Yesterday's Lantern: a returning sickle records impacts | Yesterday Again repeats strikes at remembered locations |
 
-### iPhone 7.7
+Melee combos, defence, hero resources and signature moves remain available.
+Choose your timing and placement, not just a different projectile colour.
 
-The iPhone edition contains both Serbian and English in one app and supports iOS 15
-or later. Choose the easiest route available to you:
+### Find Attacks During A Run
 
-- **AltStore Classic:** [add the official VETROMIR source](altstore://source?url=https%3A%2F%2Fsrdjankotarlic.github.io%2Fvetromir-sivi%2Faltstore-source.json), then tap Install.
-- **Direct IPA:** [download the unsigned IPA](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/iphone-7.7/Vetromir-iPhone-7.7-build23-unsigned.ipa) and sign it with AltStore Classic or another local signer.
-- **Official Xcode route:** [download the complete source package](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/iphone-7.7/Vetromir-iPhone-7.7-Xcode-Source.zip), choose your Personal Team and press Run.
+Defeated enemies drop **Comet Comb**, **Clock Marble**, **Mirror Box** and
+**Thunder Die**. Loot temporarily replaces the fourth skill slot with two or
+three charges. When empty, your equipped skill returns. New loot replaces old
+loot; death removes it. Saved equipment is never overwritten.
 
-Apple does not permit an unsigned GitHub IPA to install directly from Safari. A free
-Apple Account supports personal on-device installation, but the signature needs
-periodic refresh. Read the bilingual [iPhone installation guide](INSTALL-IPHONE.md).
+The first drop arrives after three normal enemy defeats, then every seven more.
+Summoned boss minions do not drop these attacks. The HUD shows charges and the
+correct key for your control bindings. See [the arsenal guide](ARSENAL.md).
 
-## At A Glance
+## The Adventure
 
-| 8 heroes | 10 adventures + finale | 11 guardians | 1-2 players |
-|:--:|:--:|:--:|:--:|
-| Distinct movement and weapons | 34k-42k point maps | Five-phase NEDAH fight | Solo or local co-op |
+The wind has vanished from Mrakovina. Cross ten chapters of forests, sky islands,
+frozen climbs, buried cities and storm gates. Defeat the ten guardians to unlock
+the Zero Sky, face **NEDAH** and reach the final epilogue.
 
-| 12 enemy archetypes | 1,175 enemies | 3 difficulties | 0 ads or purchases |
-|:--:|:--:|:--:|:--:|
-| Tactical and coordinated attacks | Distributed across the campaign | Remappable controls | All progress stays local |
+- Solo or two-player local co-op.
+- Eight heroes, ten chapters and an eleventh final encounter.
+- Sixteen enemy types, eleven bosses, hidden runes and collectable relics.
+- Variable-height jumps, wall movement, dashes and remappable controls.
+- Local scores, progression and language preferences; no telemetry.
+- Original AI-assisted cartoon artwork with articulated character and face animation.
 
-## What Makes It Different
+![Ashwind Grove rendered by the 7.21 game](media/screenshots/v7.21-grove.png)
 
-- **Your hero changes the rules.** Every hero has unique movement tuning,
-  primary weapon physics, melee geometry, defence, resource, counter, signature
-  move, super and skill tree.
-- **Movement is a complete system.** Variable jump height, coyote time, jump
-  buffering, wall slides, wall jumps, dashes, long jumps, counters and aerial
-  strikes work together.
-- **The journey has a real ending.** Ten full chapters unlock the Zero Sky, a
-  five-phase final battle and a complete epilogue.
-- **Combat is more than shooting.** Enemies block, ambush, protect allies, bind
-  heroes, coordinate attacks and use the terrain.
-- **Every run can evolve.** Equipment, permanent skills, hidden runes and four
-  temporary field powers change weapons, movement and defence.
-- **It is native.** Swift and SpriteKit, with no accounts, telemetry, ads,
-  subscriptions or in-game purchases.
+## Controls And Support
 
-## English Gameplay
+Use **Settings** to inspect or change keyboard, mouse and controller bindings.
+The HUD displays the currently assigned skill buttons. **Escape** pauses the game.
+Switch language from the main menu; both languages share the same local progress.
 
-<table>
-  <tr>
-    <td><img src="media/screenshots/en/01-main-menu.png" alt="English main menu"></td>
-    <td><img src="media/screenshots/en/02-eight-heroes.png" alt="Eight playable heroes"></td>
-  </tr>
-  <tr>
-    <td><img src="media/screenshots/en/03-ashwind-grove.png" alt="Ashwind Grove gameplay"></td>
-    <td><img src="media/screenshots/en/04-bell-city.png" alt="Bell City gameplay"></td>
-  </tr>
-  <tr>
-    <td><img src="media/screenshots/en/05-signature-move.png" alt="Hero signature move"></td>
-    <td><img src="media/screenshots/en/06-nedah-zero-sky.png" alt="NEDAH in the Zero Sky"></td>
-  </tr>
-</table>
+[Install in English](INSTALL-EN.md) · [Instalacija na srpskom](INSTALL.md) ·
+[What's new](RELEASE_NOTES.md) · [Tested scope and limitations](QA-v7.21.md) ·
+[Credits](CREDITS.md) · [Asset licences](ASSET_LICENSES.md) · [Privacy](PRIVACY.md)
 
-## Eight Heroes
+[Download the current press kit](https://github.com/srdjankotarlic/vetromir-sivi-source/releases/download/v7.21/Vetromir-7.21-Press-Kit.zip):
+Full HD captures, release facts and English/Serbian social copy.
 
-- **Vetromir Grey** controls space with wind rings, aerial drift, glide and vortexes.
-- **Vukasin** builds close-range rhythm with chained returning blades and counters.
-- **Zorvid** breaks trajectories with anchor arrows, precision and a triple jump.
-- **Gvozdan** uses an arcing forge cannon, magnetic hammer, heat and armour plates.
-- **Ognjen** advances behind a frontal guard with a sun spear and party support.
-- **Rujana** fights with twin war fans, rose wire, marks and phase doubles.
-- **Jasenka** plants sentinel seeds, roots enemies and grows healing bark.
-- **Nocena** wields a chained sickle, star lantern, eclipse and life harvest.
+**Srpski:** Igra je besplatna. Preuzmi DMG iz tabele, prevuci aplikaciju u
+Applications i izaberi srpski u glavnom meniju. Novo izdanje donosi osam posebnih
+oružja, osam sporednih napada i četiri napada koja dobijaš od poraženih neprijatelja.
 
-Their power budgets are balanced, so the choice changes how you play without
-creating one mandatory best hero.
+This is the official distribution repository. Despite the historical `-source`
+name, its main branch contains release information and media, not the current
+development checkout. GitHub's automatic **Source code** ZIP is not the installer.
+Use the DMG or application ZIP above.
 
-## Installation
-
-1. Download the English or Serbian DMG from the table above.
-2. Open the DMG and drag the application into `Applications`.
-3. On first launch, right-click the app and choose `Open`.
-4. If macOS blocks it, use `System Settings > Privacy & Security > Open Anyway`.
-
-The public build is ad-hoc signed but not Apple-notarized. Read
-[INSTALL-EN.md](INSTALL-EN.md) or [INSTALL.md](INSTALL.md) for full instructions.
-
-## Default Controls
-
-All controls can be changed from the main menu.
-
-| Action | Keyboard / mouse | Controller |
-|---|---|---|
-| Move | `A / D` | left stick / D-pad |
-| Jump / parry | `SPACE` | `A` |
-| Dash | `SHIFT` | `B` |
-| Skill attacks | `J / K / L / U` or mouse | `X / Y / R1 / L1` |
-| Signature move | `O` | `R3` |
-| Super | `I` or middle mouse | `R2` |
-| Counter | `C` | `L2` |
-| Interact / pause | `E / P` | assigned button / `MENU` |
-
-## Requirements
-
-### macOS
-
-- macOS 13 Ventura or newer
-- Apple Silicon M1, M2, M3, M4 or newer
-- keyboard and mouse, or a compatible controller
-- approximately 100 MB of free space
-
-### iPhone
-
-- iOS 15 or newer
-- iPhone 11 or newer recommended
-- AltStore Classic or a Mac with Xcode for local signing
-
-Intel Macs, Windows, Linux, iPad and Android are not supported game targets.
-
-## Media And Documentation
-
-- [English website](https://srdjankotarlic.github.io/vetromir-sivi/en/)
-- [Serbian website](https://srdjankotarlic.github.io/vetromir-sivi/)
-- [Free itch.io page](https://srdjankotarlic.itch.io/vetromir-sivi)
-- [Latest release and checksums](https://github.com/srdjankotarlic/vetromir-sivi/releases/latest)
-- [iPhone installation guide](INSTALL-IPHONE.md)
-- [Official AltStore source](https://srdjankotarlic.github.io/vetromir-sivi/altstore-source.json)
-- [Official gameplay trailer](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.5/Vetromir-Official-Gameplay-Trailer-1920x1080.mp4)
-- [English press kit](press-kit/PRESS_KIT_EN.md)
-- [Serbian press kit](press-kit/PRESS_KIT_SR.md)
-- [Asset licences](ASSET_LICENSES.md)
-- [Credits](CREDITS.md)
-- [Privacy](PRIVACY.md)
-- [Security](SECURITY.md)
-
-## Privacy And Licence
-
-The game collects no data. Profiles, equipment, scores and leaderboards remain
-on the local Mac or iPhone. Bugs and feedback can be submitted through
-[GitHub Issues](https://github.com/srdjankotarlic/vetromir-sivi/issues).
-
-Copyright © 2026 Srđan Kotarlić. All rights reserved. The game is free to
-download and play. This repository is the public distribution hub. The iPhone
-source package is supplied only for personal building and installation under
-the project licence. Resale, repackaging or reuse of the game's
-characters, story, music and visual identity is not permitted. See
-[LICENSE.md](LICENSE.md), [CREDITS.md](CREDITS.md) and
-[ASSET_LICENSES.md](ASSET_LICENSES.md).
-
----
-
-## Srpski
-
-Kompletno srpsko izdanje ostaje dostupno i ima istu kampanju, mehaniku, balans,
-muziku i grafiku kao englesko izdanje. Otvori
-[srpsku stranicu](https://srdjankotarlic.github.io/vetromir-sivi/) ili preuzmi
-[srpski DMG](https://github.com/srdjankotarlic/vetromir-sivi/releases/download/v7.6/Vetromir-Sivi-7.6-macOS-Apple-Silicon-Serbian.dmg).
+Copyright © 2026 Srđan Kotarlić. Free to download and play; not an open-source
+licence. Game assets and music are not a standalone reusable asset pack.
+[Licence](LICENSE.md).

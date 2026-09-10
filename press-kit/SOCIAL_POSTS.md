@@ -1,5 +1,7 @@
 # Objave za promociju
 
+> Arhiva ranijih objava. [Aktuelni tekstovi za besplatno izdanje 7.21](UPDATE-7.21.md).
+
 ## Instagram Reel - srpski
 
 Mrakovina je progutala vetar. Družina kreće po njega.

@@ -1,5 +1,7 @@
 # Launch trejler - 42 sekunde
 
+> Arhivski trejler: prikazuje stariju grafiku. Ne predstavljati kao snimak izdanja 7.21.
+
 ## Montaža
 
 | Vreme | Slika | Tekst |
