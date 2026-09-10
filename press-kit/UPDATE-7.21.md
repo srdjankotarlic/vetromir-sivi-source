@@ -21,7 +21,9 @@ comets, a clock marble, a mirror box and a bouncing thunder die to the fourth sl
 - Download: https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21
 - Website: https://srdjankotarlic.github.io/vetromir-sivi/en/
 - Current captures: `media/screenshots/v7.21-*.png` in this repository.
-- Older trailers and campaign material are archival; they show previous artwork.
+- Outdated videos and video-containing promo archives were removed from the
+  current branches and release downloads. This pack contains current screenshots,
+  not a new trailer. Do not present footage from older versions as 7.21 gameplay.
 
 Artwork is AI-assisted and adapted through the game's native animation system.
 Do not describe it as hand-painted by a human studio or as a 4K-source art pack.

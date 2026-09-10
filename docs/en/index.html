@@ -72,7 +72,7 @@
     }
     a { color:var(--wind); text-decoration:none; }
     a:hover { color:#b8f7ff; }
-    img,video { display:block; width:100%; max-width:100%; height:auto; }
+    img { display:block; width:100%; max-width:100%; height:auto; }
     .wrap { width:100%; max-width:var(--max); margin:auto; padding-inline:24px; }
     .skip { position:fixed; z-index:99; left:14px; top:10px; padding:10px 14px; border-radius:10px;
       color:#071116; background:var(--wind); font-weight:850; transform:translateY(-160%); }
@@ -120,10 +120,11 @@
     .trust { display:flex; justify-content:center; flex-wrap:wrap; gap:8px 20px; margin:18px 0 0; padding:0;
       color:#998ca8; list-style:none; font-size:13px; font-weight:700; }
     .trust li::before { content:"◆"; margin-right:8px; color:var(--gold); font-size:8px; vertical-align:2px; }
-    .trailer { max-width:1040px; margin:42px auto 0; padding:7px; border-radius:22px;
+    .game-preview { max-width:1040px; margin:42px auto 0; padding:7px; border-radius:22px;
       background:linear-gradient(135deg,rgba(98,232,255,.7),rgba(240,165,43,.35),rgba(107,65,142,.58));
       box-shadow:0 35px 100px #0009,0 0 80px rgba(98,232,255,.08); }
-    .trailer video { aspect-ratio:16/9; object-fit:cover; border-radius:16px; background:#000; }
+    .game-preview img { aspect-ratio:16/9; object-fit:contain; border-radius:16px; background:#000; }
+    .preview-note { margin:12px 0 0; color:var(--muted); font-size:14px; }
     .numbers { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:1px; overflow:hidden;
       max-width:1040px; margin:20px auto 0; border:1px solid var(--line); border-radius:16px; background:var(--line); }
     .number { padding:19px 10px; background:rgba(21,16,34,.97); }
@@ -219,8 +220,8 @@
       h1 { font-size:clamp(34px,11.2vw,50px); letter-spacing:-1.2px; }
       h1 span { font-size:.38em; letter-spacing:2.3px; }
       .cta .btn { width:100%; }
-      .trailer { margin-top:30px; padding:4px; border-radius:15px; }
-      .trailer video { border-radius:11px; }
+      .game-preview { margin-top:30px; padding:4px; border-radius:15px; }
+      .game-preview img { border-radius:11px; }
       .numbers { grid-template-columns:1fr 1fr; }
       .number:last-child { grid-column:1/-1; }
       section { padding:54px 0; }
@@ -265,16 +266,14 @@
         <p class="sub">Mrakovina has lost its wind. Choose one of eight heroes, cross ten full adventures and open the path to NEDAH, guardian of the Zero Sky.</p>
         <div class="cta">
           <a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21">Download free</a>
-          <a class="btn" href="#trailer">Watch gameplay</a>
+          <a class="btn" href="#preview">See the new game</a>
         </div>
         <ul class="trust"><li>Free, both languages</li><li>No account or ads</li><li>1-2 local players</li><li>Progress stays on your Mac</li></ul>
 
-        <div class="trailer" id="trailer">
-          <video controls muted autoplay loop playsinline preload="metadata" poster="../assets/en/06-nedah-zero-sky.png" aria-label="Vetromir gameplay trailer">
-            <source src="../assets/vetromir-english-gameplay-trailer.mp4" type="video/mp4">
-          </video>
+        <div class="game-preview" id="preview">
+          <a href="../assets/en/03-ashwind-grove.png"><img src="../assets/en/03-ashwind-grove.png" width="1920" height="1080" fetchpriority="high" alt="Vetromir 7.21: the current hero and painted Ashwind Grove in the English game"></a>
         </div>
-        <p>Archive gameplay trailer. Screenshots below show the new 7.21 release.</p>
+        <p class="preview-note">Captured in version 7.21. Open the image to see it at full size.</p>
 
         <div class="numbers" aria-label="Game content">
           <div class="number"><strong>8</strong><span>heroes</span></div>
@@ -384,7 +383,7 @@
     </section>
 
     <section class="final-cta">
-      <div class="wrap"><span class="eyebrow">THE WIND IS WAITING</span><h2>Choose a hero. Bring breath back to the Shadowlands.</h2><p>Ten adventures, the Zero Sky, eight arsenals and four attacks to find on the journey. Free, in both languages.</p><div class="cta"><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21">Download free</a><a class="btn gold" href="#trailer">Watch archive gameplay</a></div></div>
+      <div class="wrap"><span class="eyebrow">THE WIND IS WAITING</span><h2>Choose a hero. Bring breath back to the Shadowlands.</h2><p>Ten adventures, the Zero Sky, eight arsenals and four attacks to find on the journey. Free, in both languages.</p><div class="cta"><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21">Download free</a><a class="btn gold" href="#preview">See the new game</a></div></div>
     </section>
   </main>
 

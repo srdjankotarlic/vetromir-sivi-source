@@ -47,9 +47,9 @@ muzička izvora. Profil i rang-lista čuvaju se samo lokalno.
 
 ## Mediji
 
-Naslovna ilustracija, logo, poster, trejler i sedam stvarnih Full HD gameplay kadrova
-nalaze se u ovom promotivnom paketu. Gameplay snimci smeju da se kropuju, ali ne i
-da se menjaju tako da prikazuju nepostojeću funkciju.
+Stari video-klipovi i paketi sa njima su uklonjeni iz javnih preuzimanja.
+Za aktuelne slike i opis koristi [press kit 7.21](UPDATE-7.21.md).
+Nov trejler nije deo tog paketa. Stari gameplay ne predstavlja grafiku 7.21.
 
 ## Autorsko pravo
 

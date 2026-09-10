@@ -72,7 +72,6 @@
       -webkit-font-smoothing:antialiased; overflow-x:hidden;
     }
     img { max-width:100%; height:auto; }
-    video { max-width:100%; }
     a { color:var(--wind); text-decoration:none; }
     a:hover { color:#a8f4ff; }
     .wrap { width:100%; max-width:var(--max); margin:0 auto; padding-inline:24px; }
@@ -127,11 +126,11 @@
     .trust { display:flex; justify-content:center; flex-wrap:wrap; gap:8px 20px; margin:18px 0 0; padding:0;
       color:#978aa8; list-style:none; font-size:13px; font-weight:700; }
     .trust li::before { content:"◆"; margin-right:8px; color:var(--gold); font-size:8px; vertical-align:2px; }
-    .trailer { position:relative; max-width:1040px; margin:42px auto 0; padding:7px; border-radius:22px;
+    .game-preview { position:relative; max-width:1040px; margin:42px auto 0; padding:7px; border-radius:22px;
       background:linear-gradient(135deg,rgba(98,232,255,.70),rgba(240,165,43,.34),rgba(107,65,142,.55));
       box-shadow:0 35px 100px rgba(0,0,0,.62),0 0 80px rgba(98,232,255,.08); }
-    .trailer video { display:block; width:100%; aspect-ratio:16/9; object-fit:cover; border-radius:16px; background:#000; }
-    .trailer-note { margin:12px 0 0; color:#91839f; font-size:13px; }
+    .game-preview img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:contain; border-radius:16px; background:#000; }
+    .preview-note { margin:12px 0 0; color:var(--muted); font-size:14px; }
 
     .numbers { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:1px; overflow:hidden;
       margin:18px auto 0; max-width:1040px; border:1px solid var(--line); border-radius:16px; background:var(--line); }
@@ -245,8 +244,8 @@
       h1 { font-size:clamp(42px,14vw,62px); letter-spacing:-1.6px; }
       h1 span { font-size:.40em; letter-spacing:2.6px; }
       .cta .btn { width:100%; }
-      .trailer { margin-top:30px; padding:4px; border-radius:15px; }
-      .trailer video { border-radius:11px; }
+      .game-preview { margin-top:30px; padding:4px; border-radius:15px; }
+      .game-preview img { border-radius:11px; }
       .numbers { grid-template-columns:1fr 1fr; }
       .number:last-child { grid-column:1/-1; }
       section { padding:54px 0; }
@@ -294,16 +293,14 @@
         <p class="sub">Mrakovina je progutala vetar. Izaberi jednog od osam junaka, pređi deset velikih avantura i otvori put ka NEDAHU, čuvaru Nultog neba.</p>
         <div class="cta">
           <a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21">Preuzmi besplatno</a>
-          <a class="btn" href="#trailer">Pogledaj gameplay</a>
+          <a class="btn" href="#preview">Pogledaj novu igru</a>
         </div>
         <ul class="trust"><li>Besplatno, oba jezika</li><li>Bez naloga i oglasa</li><li>1–2 igrača lokalno</li><li>Napredak ostaje na Macu</li></ul>
 
-        <div class="trailer" id="trailer">
-          <video controls muted autoplay loop playsinline preload="metadata" poster="assets/key-art-1920x1080.jpg" aria-label="Vetromir gameplay trailer">
-            <source src="assets/vetromir-english-gameplay-trailer.mp4" type="video/mp4">
-          </video>
+        <div class="game-preview" id="preview">
+          <a href="assets/01-gaj-pepeljastog-vetra.png"><img src="assets/01-gaj-pepeljastog-vetra.png" width="1920" height="1080" fetchpriority="high" alt="Vetromir 7.21: novi junak, oslikani Gaj i aktuelni prikaz igre"></a>
         </div>
-        <p class="trailer-note">Arhivski gameplay trejler. Slike ispod prikazuju novo izdanje 7.21.</p>
+        <p class="preview-note">Kadar iz verzije 7.21. Otvori sliku za prikaz u punoj veličini.</p>
 
         <div class="numbers" aria-label="Sadržaj igre">
           <div class="number"><strong>8</strong><span>junaka</span></div>
@@ -422,7 +419,7 @@
     </section>
 
     <section class="final-cta">
-      <div class="wrap"><span class="eyebrow">VETAR ČEKA</span><h2>Izaberi junaka. Vrati dah Mrakovini.</h2><p>Deset avantura, Nulto nebo, osam arsenala i četiri napada koja osvajaš u pohodu. Sve besplatno, na oba jezika.</p><div class="cta"><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21">Preuzmi besplatno</a><a class="btn gold" href="#trailer">Pogledaj arhivski gameplay</a></div></div>
+      <div class="wrap"><span class="eyebrow">VETAR ČEKA</span><h2>Izaberi junaka. Vrati dah Mrakovini.</h2><p>Deset avantura, Nulto nebo, osam arsenala i četiri napada koja osvajaš u pohodu. Sve besplatno, na oba jezika.</p><div class="cta"><a class="btn primary" href="https://github.com/srdjankotarlic/vetromir-sivi-source/releases/tag/v7.21">Preuzmi besplatno</a><a class="btn gold" href="#preview">Pogledaj novu igru</a></div></div>
     </section>
   </main>
 

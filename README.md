@@ -83,6 +83,8 @@ Switch language from the main menu; both languages share the same local progress
 
 [Download the current press kit](https://github.com/srdjankotarlic/vetromir-sivi-source/releases/download/v7.21/Vetromir-7.21-Press-Kit.zip):
 Full HD captures, release facts and English/Serbian social copy.
+Old videos have been withdrawn; this pack contains no new trailer.
+[Current media status](MEDIA_STATUS.md).
 
 **Srpski:** Igra je besplatna. Preuzmi DMG iz tabele, prevuci aplikaciju u
 Applications i izaberi srpski u glavnom meniju. Novo izdanje donosi osam posebnih

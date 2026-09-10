@@ -47,9 +47,9 @@ sources. Profiles and leaderboards remain entirely local.
 
 ## Media
 
-The package includes key art, a vector logo, a poster, a launch trailer, Serbian
-screenshots and seven real English gameplay screenshots. Gameplay images may be
-cropped but should not be edited to imply features that are not present.
+Old videos and archives containing them have been removed from public downloads.
+Use the [7.21 press kit](UPDATE-7.21.md) for current screenshots and release facts.
+It contains no new trailer. Earlier gameplay does not represent the 7.21 artwork.
 
 ## Copyright
 
