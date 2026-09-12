@@ -12,7 +12,7 @@
    `macOS-Apple-Silicon-Serbian-English.dmg`. Nemoj preuzimati automatski GitHub arhivirani izvorni kod
    ako samo želiš da igraš.
 2. Po želji proveri paket komandom `shasum -a 256 ime-fajla.dmg` i uporedi rezultat sa
-   `SHA256SUMS-v7.21.txt` iz istog izdanja.
+   `SHA256SUMS-v7.25.txt` iz istog izdanja.
 3. Otvori DMG i prevuci `Vetromir.app` na prečicu `Applications`.
 4. Pokreni igru iz foldera Applications.
 
@@ -32,6 +32,6 @@ briše ovaj fajl.
 
 ## Koji GitHub fajl da izaberem
 
-Preuzmi DMG ili ZIP aplikacije uz izdanje 7.21. Automatski GitHub paket
+Preuzmi DMG ili ZIP aplikacije uz izdanje 7.25. Automatski GitHub paket
 "Source code" sadrži dokumentaciju distributivnog repozitorijuma, ne igru.
 Za igranje ti nisu potrebni Xcode ni razvojni alati.

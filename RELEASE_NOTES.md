@@ -1,6 +1,10 @@
-# VETROMIR 7.21 - Curious Arsenal
+# VETROMIR 7.25 - Fiercer Encounters
 
-See [the current release notes](RELEASE-v7.21.md) for eight new weapon systems,
+See [the current release notes](RELEASE-v7.25.md) for stronger bosses and smoother combat.
+
+## Earlier Releases
+
+See [the 7.21 release notes](RELEASE-v7.21.md) for eight new weapon systems,
 eight secondary combinations, collectable attacks and the current Mac installer.
 Both languages are now included in one application with shared local progress.
 

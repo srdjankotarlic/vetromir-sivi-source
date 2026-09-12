@@ -1,5 +1,24 @@
 # Evidencija asseta
 
+## Desktop 7.24: opasne vrste
+
+Četiri originalna atlasa u `Resources/Art/Bestiary-7.24/`: raider, bastion,
+moon i thornback. Ugrađeni OpenAI ImageGen, 12. septembar 2026. AI-assisted
+art, ne CC0 paket, tuđe ilustracije ili tvrdnja o ručnom slikanju. Originalni
+1536 x 1024 RGBA fajlovi kopirani su bez izmene. Puni promptovi i prvobitni QA
+u `Art/Bestiary-7.24/`. Fiksna mreža nije prihvaćena; renderer koristi pojedinačne
+sourceRegions i postojeći atlas loader. Provera stvarno sastavljenih rigova
+i konačna ograničenja su u `output/v7.24-qa/RESULTS.md`.
+
+## Desktop 7.22: slikano oružje
+
+`Resources/Art/Weapons/arsenal-7.22.png`: originalni atlas osam projektila,
+generisan ugrađenim OpenAI ImageGen alatom 12. septembra 2026. Bez tuđih
+referentnih slika. AI-assisted art, ne CC0 paket ni ljudski ručni rad.
+Original sa alpha kanalom: 1774 x 887 piksela, iako je prompt tražio 2048 x 1024.
+Četiri kolone i dva reda se izdvajaju normalizovanim koordinatama u renderer-u;
+originalni PNG nije precrtan ni preskaliran. Puni prompt: `Art/Weapons/PROMPT.md`.
+
 ## Desktop 7.15: Krivudavi vetar (aktivni izbor)
 
 Korisnik je zatražio originalni crtani fantasy umesto ozbiljnog slikanog smera.

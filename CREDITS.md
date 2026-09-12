@@ -2,6 +2,10 @@
 
 Kreativno vođstvo i izdavač: Srđan Kotarlić
 
+Desktop 7.24: četiri originalna modularna neprijateljska atlasa generisana
+ugrađenim OpenAI ImageGen alatom. Četvoronožni i krilati rigovi, rezervna
+vektorska grafika, sklapanje i simulaciona animacija izvedeni su u Swift kodu.
+
 Desktop 7.13: 27 modularnih slikanih protivnika i četiri lista prednjeg plana,
 generisana ugrađenim OpenAI ImageGen alatom prema originalnim projektnim briefovima.
 Sklapanje delova, animacije, slojevi i povezivanje sa postojećim AI-jem su Swift kod.

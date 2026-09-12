@@ -39,6 +39,6 @@ automatically only when the shared profile does not already exist.
 
 ## GitHub download choice
 
-Use the DMG or application ZIP attached to release 7.21. The automatic GitHub
+Use the DMG or application ZIP attached to release 7.25. The automatic GitHub
 "Source code" archive contains this distribution repository's documentation,
 not an installable game. You do not need Xcode or developer tools to play.
